@@ -3318,3 +3318,9 @@
 {"job_count": 4, "run_attempt": "1", "run_id": "33277294976", "timestamp": "2026-08-29T21:56:30Z", "workflow": "google_jobs"}
 {"job_count": 0, "run_attempt": "1", "run_id": "33277483020", "timestamp": "2026-08-29T22:01:12Z", "workflow": "indeed"}
 {"job_count": 70, "run_attempt": "1", "run_id": "33278280963", "timestamp": "2026-08-29T22:19:20Z", "workflow": "hiringcafe"}
+{"job_count": 1, "run_attempt": "1", "run_id": "33283115493", "timestamp": "2026-08-30T00:28:59Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "33283418590", "timestamp": "2026-08-30T00:29:36Z", "workflow": "ziprecruiter"}
+{"job_count": 0, "run_attempt": "1", "run_id": "33283657806", "timestamp": "2026-08-30T00:35:46Z", "workflow": "indeed"}
+{"job_count": 4, "run_attempt": "1", "run_id": "33283820949", "timestamp": "2026-08-30T00:40:07Z", "workflow": "google_jobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "33284090879", "timestamp": "2026-08-30T00:46:50Z", "workflow": "indeed"}
+{"job_count": 70, "run_attempt": "1", "run_id": "33284688805", "timestamp": "2026-08-30T01:01:33Z", "workflow": "hiringcafe"}
