@@ -1,0 +1,87 @@
+{
+  "searches": [
+    {
+      "name": "DFW ISO/AS9100 Quality",
+      "keywords": [
+        "ISO 9001",
+        "AS9100",
+        "Quality Manager",
+        "Director of Quality",
+        "Quality Systems",
+        "Internal audit",
+        "QMS",
+        "Quality Engineer"
+      ],
+      "locations": [
+        "Dallas, TX",
+        "Fort Worth, TX",
+        "Plano, TX",
+        "Irving, TX",
+        "Arlington, TX"
+      ],
+      "remote": false
+    },
+    {
+      "name": "Texas ISO/AS9100 Quality",
+      "keywords": [
+        "ISO 9001",
+        "AS9100",
+        "Quality Manager",
+        "Director of Quality",
+        "Quality Systems",
+        "Internal audit",
+        "QMS",
+        "Quality Engineer"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "remote": false
+    },
+    {
+      "name": "US Remote ISO/AS9100 Quality",
+      "keywords": [
+        "ISO 9001",
+        "AS9100",
+        "Quality Manager",
+        "Director of Quality",
+        "Quality Systems",
+        "Internal audit",
+        "QMS",
+        "Quality Engineer"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "remote": true
+    },
+    {
+      "name": "US Site Support ISO/AS9100 Quality",
+      "keywords": [
+        "ISO 9001",
+        "AS9100",
+        "Quality Manager",
+        "Director of Quality",
+        "Quality Systems",
+        "Internal audit",
+        "QMS",
+        "Quality Engineer"
+      ],
+      "locations": [
+        "United States"
+      ],
+      "remote": false
+    }
+  ],
+  "boards": [
+    "linkedin",
+    "indeed",
+    "glassdoor",
+    "ziprecruiter",
+    "google_jobs"
+  ],
+  "output": {
+    "csv": true,
+    "html_dashboard": true
+  }
+}
