@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-30 19:34 UTC*
+*Last updated: 2026-08-30 20:34 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Air Quality Managing Consultant](https://www.linkedin.com/jobs/view/4459099254/) — Ramboll
+- 📍 **Location:** North Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-08-30
