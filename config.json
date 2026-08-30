@@ -2,30 +2,19 @@
   "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
 
   "profile": {
-    "title": "Environmental / Toxicology Job Tracker",
-    "subtitle": "California · Oregon · Australia",
-    "emoji": "🧪"
-  },
+  "title": "ISO 9001/AS9100 Quality Job Tracker",
+  "subtitle": "DFW · Texas · Remote · USA",
+  "emoji": "🧪"
+}
 
   "keywords": {
     "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
     "include": [
-      "toxicologist", "toxicology", "toxicological", "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
-      "environmental toxicolog", "regulatory toxicolog", "computational toxicolog", "predictive toxicolog",
-      "aquatic toxicolog", "wildlife toxicolog", "research toxicolog",
-      "risk assess", "risk assessor", "human health risk", "ecological risk", "exposure scien",
-      "exposure assess", "exposure modeling", "exposure modelling", "hazard assess", "hazard identification",
-      "dose-response", "dose response", "pharmacokinetic", "toxicokinetic", "pbpk",
-      "environmental scien", "environmental health", "environmental chemist", "environmental chemistry",
-      "environmental specialist", "environmental analyst", "environmental protection", "environmental epidemiolog",
-      "environmental data", "environmental monitoring", "environmental assessment", "exposure epidemiolog",
-      "water quality", "drinking water", "watershed", "water resources", "aquatic scien", "limnolog",
-      "microplastic", "microplastics", "nanoplastic", "nanomaterial", "pfas", "per- and polyfluoro",
-      "emerging contaminant", "contaminant", "pollutant", "air pollution", "water pollution", "air quality",
-      "remediation", "environmental remediation", "chemical safety", "chemical risk", "chemical assess",
-      "chemical regulatory", "product steward", "hazardous materials", "hazardous waste",
-      "environmental compliance", "conservation toxicolog"
-    ],
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+]
+
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
       "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
@@ -38,87 +27,118 @@
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "toxicologist", "environmental toxicologist", "ecotoxicologist", "regulatory toxicologist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment",
-      "exposure scientist", "exposure assessment", "environmental scientist", "environmental health scientist",
-      "environmental chemist", "environmental epidemiologist", "water quality scientist", "microplastics",
-      "PFAS", "emerging contaminants", "air quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "indeed": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "glassdoor": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "ziprecruiter": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+     "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "google_jobs": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "hiring_cafe": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "calcareers": [
-      "toxicologist", "environmental scientist", "risk assessment",
-      "exposure", "water quality", "microplastics", "hazard",
-      "environmental health", "ecologist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "usajobs": [
-      "toxicologist", "environmental protection specialist", "environmental health",
-      "ecotoxicology", "exposure science", "risk assessment",
-      "environmental scientist", "microplastics", "ecologist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "governmentjobs": [
-      "toxicologist", "environmental scientist", "environmental health",
-      "risk assessment", "water quality", "air quality",
-      "hazardous materials", "environmental specialist"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ],
     "workday": [
-      "toxicologist", "environmental scientist", "risk assessment",
-      "exposure scientist", "environmental health", "water quality"
+      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
+      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
+      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
     ]
   },
 
   "locations": {
     "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
     "linkedin": [
-      { "name": "California",  "location": "California, United States",          "geoId": "102095887" },
-      { "name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079" },
-      { "name": "Bend OR",     "location": "Bend, Oregon, United States",        "geoId": "" },
-      { "name": "Australia",   "location": "Australia",                          "geoId": "101452733" }
-    ],
+      { "name": "Texas",           "location": "Texas, United States" },              "geoId": "xxx" },
+      { "name": "Remote"           "location": "United States" },                     "geoId": "xxx" },
+      { "name": "Plano, TX"        "location": "Plano, TX, United States",            "geoId": "xxx" },
+      { "name": "Dallas, TX"       "location": "Dallas, TX, United States",           "geoId": "xxx" },
+      { "name": "Fortworth, TX"    "location": "Fortworth, TX, United States",        "geoId": "xxx" },
+      { "name": "Richardson, TX"   "location": "Richardson, TX, United States",       "geoId": "xxx" },
+      { "name": "Arlington, TX"    "location": "Arlington, TX, United States",        "geoId": "xxx" },
+      { "name": "Austin, TX"       "location": "Austin, TX, United States" }          "geoId": "xxx" }
+],
     "indeed": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
+      { "location": "Texas",   "country": "USA" },
+      { "location": "Remote",   "country": "USA" },
+      { "location": "Plano, TX", "country": "USA" },
+      { "location": "Dallas, TX", "country": "USA" },
+      { "location": "Fortworth, TX", "country": "USA" },
+      { "location": "Richardson, TX", "country": "USA" },
+      { "location": "Arlington, TX", "country": "USA" },
+      { "location": "Austin, TX", "country": "USA" }
     ],
     "glassdoor": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
+      { "location": "Texas",   "country": "USA" },
+      { "location": "Remote",   "country": "USA" },
+      { "location": "Plano, TX", "country": "USA" },
+      { "location": "Dallas, TX", "country": "USA" },
+      { "location": "Fortworth, TX", "country": "USA" },
+      { "location": "Richardson, TX", "country": "USA" },
+      { "location": "Arlington, TX", "country": "USA" },
+      { "location": "Austin, TX", "country": "USA" }
     ],
     "ziprecruiter": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" }
+      { "location": "Texas",   "country": "USA" },
+      { "location": "Remote",   "country": "USA" },
+      { "location": "Plano, TX", "country": "USA" },
+      { "location": "Dallas, TX", "country": "USA" },
+      { "location": "Fortworth, TX", "country": "USA" },
+      { "location": "Richardson, TX", "country": "USA" },
+      { "location": "Arlington, TX", "country": "USA" },
+      { "location": "Austin, TX", "country": "USA" }
     ],
     "google_jobs": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
+      { "location": "Texas",   "country": "USA" },
+      { "location": "Remote",   "country": "USA" },
+      { "location": "Plano, TX", "country": "USA" },
+      { "location": "Dallas, TX", "country": "USA" },
+      { "location": "Fortworth, TX", "country": "USA" },
+      { "location": "Richardson, TX", "country": "USA" },
+      { "location": "Arlington, TX", "country": "USA" },
+      { "location": "Austin, TX", "country": "USA" }
     ],
     "hiring_cafe": [
-      { "location": "United States" }
+      { "location": "Texas",   "country": "USA" },
+      { "location": "Remote",   "country": "USA" },
+      { "location": "Plano, TX", "country": "USA" },
+      { "location": "Dallas, TX", "country": "USA" },
+      { "location": "Fortworth, TX", "country": "USA" },
+      { "location": "Richardson, TX", "country": "USA" },
+      { "location": "Arlington, TX", "country": "USA" },
+      { "location": "Austin, TX", "country": "USA" }
     ]
   },
 
