@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-29 19:25 UTC",
+  "scraped_at": "2026-08-30 16:26 UTC",
   "total": 9,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -40,15 +40,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Watsonville",
-      "title": "Water Quality Chemist",
-      "location": "City of Watsonville, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
-      "date_posted": "",
-      "salary": "$86,881.60 - $116,438.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of Burbank",
       "title": "WATER QUALITY ANALYST",
       "location": "Burbank, CA",
@@ -64,6 +55,15 @@
       "url": "https://www.governmentjobs.com/jobs/5455854-0/water-quality-analyst",
       "date_posted": "",
       "salary": "$32.88 - $41.81 Hourly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Watsonville",
+      "title": "Water Quality Chemist",
+      "location": "City of Watsonville, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "date_posted": "",
+      "salary": "$86,881.60 - $116,438.40 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -85,15 +85,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Palo Alto",
-      "title": "Water Quality Plant Manager of Maintenance Operations",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
-      "date_posted": "",
-      "salary": "$118,643.20 - $177,944.00 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
