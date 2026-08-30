@@ -145,22 +145,12 @@
   "location_filter": {
     "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards that don't support geo-scoping at the API level: the curated direct-ATS sweep, and NEOGOV/GovernmentJobs.com (a nationwide board). Keep this in sync with your locations.* entries above.",
     "terms": [
-      "california", ", ca", "remote", "hybrid",
-      "sacramento", "davis", "west sacramento", "rancho cordova", "elk grove",
-      "roseville", "folsom", "woodland",
-      "bay area", "san francisco", "south san francisco", "oakland", "berkeley",
-      "emeryville", "richmond", "palo alto", "mountain view", "menlo park",
-      "sunnyvale", "santa clara", "san jose", "san mateo", "redwood city",
-      "fremont", "hayward", "concord", "walnut creek", "pleasanton", "livermore",
-      "novato", "san rafael", "vacaville",
-      "los angeles", "long beach", "irvine", "costa mesa", "san diego",
-      "riverside", "pasadena", "santa monica", "torrance", "fountain valley",
-      "santa barbara", "san luis obispo", "fresno", "monterey",
-      "portland, or", "portland, oregon", "bend, or", "bend, oregon", "oregon",
-      "beaverton", "hillsboro", "eugene", "salem, or", "corvallis", "redmond, or",
-      "australia", "sydney", "melbourne", "brisbane", "perth", "adelaide",
-      "canberra", "new south wales", "victoria", "queensland",
-      "western australia", "tasmania"
+      "texas", ", tx", "remote", "hybrid", "remote"
+      "plano", "richardson", "addison", "garland", "rockwall",
+      "wylie", "allen", "frisco",
+      "prosper", "Carollton", "grapevine", "euless", "arlington",
+      "irving", "fortworth", "flower mound", "McKinney", "mansfield",
+      "greenville", "austin", "round rock", "leander", "georgetown", "pflugerville", 
     ]
   },
 
@@ -186,34 +176,20 @@
   "employers": {
     "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
     "priority": [
-      "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno", "Stantec", "Tetra Tech",
-      "ICF International", "Abt Associates", "Eastern Research Group", "Integral Consulting",
-      "Geosyntec", "Arcadis", "AECOM", "Montrose Environmental", "Trinity Consultants", "GHD Group",
-      "Environmental Resources Management", "SLR Consulting", "Wood Environment", "Sciome", "ChemRisk",
-      "Southern California Coastal Water Research Project", "SCCWRP", "San Francisco Estuary Institute",
-      "Silent Spring Institute", "Environmental Defense Fund", "Natural Resources Defense Council",
-      "Environmental Working Group", "Ocean Conservancy", "Pew Charitable Trusts", "Health Effects Institute",
-      "RTI International", "Battelle", "Green Science Policy Institute", "Defend Our Health", "Moore Institute",
-      "Environmental Protection Agency", "California Environmental Protection", "Office of Environmental Health Hazard",
-      "State Water Resources Control", "California Air Resources Board", "Department of Toxic Substances Control",
-      "National Institute of Environmental Health", "Geological Survey", "Procter & Gamble", "Unilever",
-      "Corteva", "Syngenta", "Dow Chemical", "BASF Corporation"
+      "NQA", "Hewlett Packard Enterprise", "Lock Heed Martin", "Evona", "tuv sud", "Tuv Nord", "Shield AI",
     ],
     "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
     "exclude": [
-      "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
-      "genomics", "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
-      "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
-      "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
-      "recursion", "cytokinetics", "vertex pharm", "bristol-myers", "bristol myers"
+      "biopharma", "biotech", "biologics", "biosciences",
+      "genomics", "oncolog", "biomedicine", "genentech", "gilead"
     ]
   },
 
   "priority_topics": {
     "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
     "terms": [
-      ["microplastics", "microplastic|nanoplastic|microfiber"],
-      ["ecotoxicology", "ecotoxicolog"],
+      ["Aerospace", "Aerospace and Defense"],
+      ["Internal Auditor", "Auditor", "Compliance Manager", "Quality Manager", ],
       ["endocrine-disrupting chemicals", "endocrine[\\s-]?disrupt|\\bedcs?\\b"],
       ["R / Shiny", "\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
     ]
