@@ -10,85 +10,128 @@
   "keywords": {
     "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
     "include": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+    "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
 ]
 
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
-      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
-      "research assistant", "lab assistant", "teaching assistant", "undergraduate", "postdoc",
-      "postdoctoral", "work-study", "volunteer", "fellowship", "engineer", "engineering",
-      "ehs", "occupational safety", "occupational health", "health and safety", "health & safety"
+    "software qa", "qa tester", "qa analyst", "qa automation", "test engineer", "intern", "entry level",
+    "technician", "lab technician", "chemist", "biology", "environmental", "toxicology", "food safety", "pharma",
+    "clinical", "medical assistant"
     ]
   },
 
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      ""quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "indeed": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+     "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "glassdoor": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "ziprecruiter": [
-     "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+     "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "google_jobs": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "hiring_cafe": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "calcareers": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "usajobs": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "governmentjobs": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ],
     "workday": [
-      "quality engineer", "quality manager", "quality assurance", "quality systems", "quality specialist", "quality supervisor", "quality director",
-      "supplier quality", "sqe", "supplier auditor", "supplier development", "iso 9001", "as9100", "qms", "quality management system",
-      "internal auditor", "lead auditor", "quality compliance", "manufacturing quality", "aerospace quality"
+      "quality engineering", "quality manager", "quality assurance", "quality assurance engineer", "quality assurance manager", "quality systems",
+    "quality systems engineer", "quality systems manager", "quality specialist", "quality supervisor", "quality director", "quality compliance",
+    "quality compliance engineer", "quality compliance manager", "supplier quality", "supplier quality engineer", "supplier quality manager",
+    "sqe", "supplier auditor", "supplier development", "supplier development engineer", "supplier development manager", "manufacturing quality",
+    "manufacturing quality engineer", "manufacturing quality manager", "iso 9001", "as9100", "qms", "quality management system", "quality management",
+    "quality auditor", "internal auditor", "lead auditor", "external auditor", "aerospace quality", "defense quality", "aviation quality",
+    "continuous improvement", "process improvement", "lean manufacturing", "six sigma", "root cause analysis", "corrective action", "capa"
     ]
   },
 
   "locations": {
     "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
     "linkedin": [
-      { "name": "Texas",           "location": "Texas, United States" },              "geoId": "xxx" },
-      { "name": "Remote"           "location": "United States" },                     "geoId": "xxx" },
-      { "name": "Plano, TX"        "location": "Plano, TX, United States",            "geoId": "xxx" },
-      { "name": "Dallas, TX"       "location": "Dallas, TX, United States",           "geoId": "xxx" },
-      { "name": "Fortworth, TX"    "location": "Fortworth, TX, United States",        "geoId": "xxx" },
-      { "name": "Richardson, TX"   "location": "Richardson, TX, United States",       "geoId": "xxx" },
-      { "name": "Arlington, TX"    "location": "Arlington, TX, United States",        "geoId": "xxx" },
-      { "name": "Austin, TX"       "location": "Austin, TX, United States" }          "geoId": "xxx" }
+      { "name": "Texas",           "location": "Texas, United States" },              "geoId": "101728296" },
+      { "name": "Remote"           "location": "United States" },                     "geoId": "103644278" },
+      { "name": "Plano, TX"        "location": "Plano, TX, United States",            "geoId": "104517258" },
+      { "name": "Dallas, TX"       "location": "Dallas, TX, United States",           "geoId": "104517258" },
+      { "name": "Fortworth, TX"    "location": "Fortworth, TX, United States",        "geoId": "104735440" },
+      { "name": "Richardson, TX"   "location": "Richardson, TX, United States",       "geoId": "104517258" },
+      { "name": "Arlington, TX"    "location": "Arlington, TX, United States",        "geoId": "104735440" },
+      { "name": "Austin, TX"       "location": "Austin, TX, United States" }          "geoId": "104472865" }
 ],
     "indeed": [
       { "location": "Texas",   "country": "USA" },
@@ -177,7 +220,18 @@
     "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
     "priority": [
       "NQA", "Hewlett Packard Enterprise", "Lock Heed Martin", "Evona", "tuv sud", "Tuv Nord", "Shield AI",
-    ],
+      "Lockheed Martin", "Raytheon", "Collins Aerospace", "Bell Textron", "L3Harris", "Northrop Grumman", "Boeing",
+    "Spirit AeroSystems", "GKN Aerospace", "Triumph Group", "Texas Instruments", "Flex", "Celestica", "Sanmina",
+    "Benchmark Electronics", "Jabil", "TTM Technologies", "Siemens", "Bosch", "Honeywell", "Parker Hannifin", "Eaton",
+    "Schneider Electric", "General Dynamics", "Amentum", "Leidos", "KBR", "Jacobs", "AECOM", "Safran", "Chromalloy",
+    "Howmet Aerospace", "Arconic",  "Precision Castparts", "Timken", "SpaceX", "Blue Origin", "Firefly Aerospace",
+    "Toyota", "GM", "Ford", "Tesla",
+    "Baylor Scott & White", "UT Southwestern", "Medtronic", "Abbott", "Stryker", "Zimmer Biomet",
+    "Vishay", "Micron", "Applied Materials", "Lam Research",
+    "Onsemi", "NXP", "Infineon", "STMicroelectronics",
+    "Sabre", "Southwest Airlines", "American Airlines", "DFW Airport", "Dallas Area Rapid Transit (DART)
+          ],
+   
     "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
     "exclude": [
       "biopharma", "biotech", "biologics", "biosciences",
@@ -185,12 +239,27 @@
     ]
   },
 
+"industry_filters": {
+  "include": [
+    "aerospace", "defense", "aviation", "aircraft", "space", "manufacturing", "machining", "precision machining", "metal fabrication",
+    "electronics", "semiconductor", "electrical engineering", "mechanical engineering", "industrial engineering", "systems engineering",
+    "medical device", "biomedical engineering", "automotive", "transportation equipment", "energy", "oil and gas equipment", "renewable energy",
+    "engineering services", "contract manufacturing", "supplier development", "supplier quality", "quality systems", "qms", "iso 9001", "as9100"
+  ],
+
+  "exclude": [
+    "hospitality", "retail", "food service", "restaurants", "banking", "insurance", "real estate", "education", "schools", "universities",
+    "social services", "nonprofit", "environmental", "toxicology", "clinical research", "pharmaceutical", "biotech", "agriculture", "cosmetics",
+    "fashion", "beauty", "travel", "tourism"
+  ]
+}
+
   "priority_topics": {
     "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
     "terms": [
-      ["Aerospace", "Aerospace and Defense"],
-      ["Internal Auditor", "Auditor", "Compliance Manager", "Quality Manager", ],
-      ["endocrine-disrupting chemicals", "endocrine[\\s-]?disrupt|\\bedcs?\\b"],
+      ["Aerospace", "Aerospace and Defense", "Telecommunications", "ASD", "IT Services", "Engineering Services", "Electronics", "Systems Development"],
+      ["Software Development", "Frabrication", "Machining", "Internal Auditor", "Auditor", "Compliance Manager", "Quality Manager", "Compliance Lead", "Quality Engineer" ],
+      ["Quality Director", "QMS Lead", "QMS Compliance Lead", "QMS Quality Manager"],
       ["R / Shiny", "\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
     ]
   },
