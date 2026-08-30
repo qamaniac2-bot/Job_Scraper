@@ -1,0 +1,37 @@
+{
+  "high_pain": {
+    "score": 5,
+    "keywords": [
+      "maintain ISO 9001",
+      "maintain AS9100",
+      "prepare for audit",
+      "surveillance audit",
+      "internal audit program",
+      "QMS overhaul",
+      "CAPA backlog",
+      "management representative",
+      "root cause analysis required"
+    ]
+  },
+  "medium_pain": {
+    "score": 3,
+    "keywords": [
+      "ISO 9001 experience",
+      "AS9100 experience",
+      "document control",
+      "process mapping",
+      "quality systems",
+      "supplier quality audits"
+    ]
+  },
+  "low_pain": {
+    "score": 1,
+    "keywords": [
+      "Quality Manager",
+      "Quality Director",
+      "Quality Engineer",
+      "Quality Assurance"
+    ]
+  },
+  "max_score": 10
+}
