@@ -205,9 +205,9 @@
   "priority_topics": {
     "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
     "terms": [
-      ["Aerospace", "Aerospace and Defense", "Telecommunications", "ASD", "IT Services", "Engineering Services", "Electronics", "Systems Development"],
-      ["Software Development", "Frabrication", "Machining", "Internal Auditor", "Auditor", "Compliance Manager", "Quality Manager", "Compliance Lead", "Quality Engineer" ],
-      ["Quality Director", "QMS Lead", "QMS Compliance Lead", "QMS Quality Manager"],
+      ["microplastics", "microplastic|nanoplastic|microfiber"],
+      ["ecotoxicology", "ecotoxicolog"],
+      ["endocrine-disrupting chemicals", "endocrine[\\s-]?disrupt|\\bedcs?\\b"],
       ["R / Shiny", "\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
     ]
   },
