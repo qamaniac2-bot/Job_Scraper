@@ -1,37 +1,88 @@
 {
-  "high_pain": {
-    "score": 5,
-    "keywords": [
-      "maintain ISO 9001",
-      "maintain AS9100",
-      "prepare for audit",
-      "surveillance audit",
-      "internal audit program",
-      "QMS overhaul",
-      "CAPA backlog",
-      "management representative",
-      "root cause analysis required"
-    ]
+  "version": 1,
+  "description": "Scoring profile for ISO 9001 / AS9100 Quality Engineering, Supplier Quality, Manufacturing Quality, and QMS roles.",
+  
+  "settings": {
+    "title_multiplier": 3,
+    "body_multiplier": 1,
+    "score_multiplier": 1.6,
+    "generic_cap": 35,
+    "standout_threshold": 60
   },
-  "medium_pain": {
-    "score": 3,
-    "keywords": [
-      "ISO 9001 experience",
-      "AS9100 experience",
-      "document control",
-      "process mapping",
-      "quality systems",
-      "supplier quality audits"
-    ]
-  },
-  "low_pain": {
-    "score": 1,
-    "keywords": [
-      "Quality Manager",
-      "Quality Director",
-      "Quality Engineer",
-      "Quality Assurance"
-    ]
-  },
-  "max_score": 10
+
+  "fit_terms": [
+    { "pattern": "\\bAS9100\\b|\\bISO 9001\\b|\\bQMS\\b|\\bquality management system\\b", "weight": 16 },
+    { "pattern": "\\bquality engineer\\b|\\bquality manager\\b|\\bquality systems engineer\\b|\\bquality assurance engineer\\b", "weight": 14 },
+    { "pattern": "\\bsupplier quality\\b|\\bSQE\\b|\\bsupplier development\\b|\\bsupplier auditor\\b", "weight": 14 },
+    { "pattern": "\\bmanufacturing quality\\b|\\bproduction quality\\b|\\bquality in manufacturing\\b", "weight": 12 },
+    { "pattern": "\\bFAI\\b|\\bfirst article inspection\\b|\\bPPAP\\b|\\bAPQP\\b", "weight": 12 },
+    { "pattern": "\\bGD&T\\b|\\bgeometric dimensioning\\b", "weight": 10 },
+    { "pattern": "\\bCNC\\b|\\bprecision machining\\b|\\bmachining\\b", "weight": 10 },
+    { "pattern": "\\bnonconformance\\b|\\bNCR\\b|\\bcorrective action\\b|\\bCAPA\\b", "weight": 12 },
+    { "pattern": "\\broot cause analysis\\b|\\bRCA\\b|\\b8D\\b", "weight": 10 },
+    { "pattern": "\\blead auditor\\b|\\binternal auditor\\b|\\bexternal auditor\\b", "weight": 12 },
+    { "pattern": "\\baerospace\\b|\\baviation\\b|\\bdefense\\b", "weight": 10 },
+    { "pattern": "\\bsemiconductor\\b|\\belectronics manufacturing\\b", "weight": 9 },
+    { "pattern": "\\bmedical device\\b|\\bISO 13485\\b", "weight": 7 },
+    { "pattern": "\\bcontinuous improvement\\b|\\blean manufacturing\\b|\\bsix sigma\\b", "weight": 8 },
+    { "pattern": "\\bDFW\\b|\\bDallas\\b|\\bPlano\\b|\\bRichardson\\b|\\bFort Worth\\b|\\bArlington\\b", "weight": 6 },
+    { "pattern": "\\bremote\\b|\\bwork from home\\b", "weight": 4 }
+  ],
+
+  "signature_terms": [
+    "\\bAS9100\\b.*\\bquality engineer\\b",
+    "\\bISO 9001\\b.*\\bquality manager\\b",
+    "\\bQMS\\b.*\\bauditor\\b",
+    "\\bsupplier quality\\b.*\\bPPAP\\b",
+    "\\bFAI\\b.*\\bAS9100\\b",
+    "\\broot cause analysis\\b.*\\bCAPA\\b",
+    "\\bprecision machining\\b.*\\bquality\\b",
+    "\\bGD&T\\b.*\\binspection\\b",
+    "\\bDFW\\b.*\\bquality engineer\\b",
+    "\\baerospace\\b.*\\bquality\\b"
+  ],
+
+  "poor_fit_terms": [
+    { "pattern": "\\bsoftware QA\\b|\\bQA tester\\b|\\bautomation QA\\b", "penalty": 35 },
+    { "pattern": "\\bfood safety\\b|\\bGMP\\b|\\bGLP\\b|\\blab technician\\b", "penalty": 30 },
+    { "pattern": "\\bchemist\\b|\\bbiology\\b|\\bclinical\\b|\\bpharma\\b", "penalty": 28 },
+    { "pattern": "\\benvironmental\\b|\\btoxicology\\b|\\bwater quality\\b", "penalty": 26 },
+    { "pattern": "\\bconstruction\\b|\\bremediation\\b|\\bstormwater\\b", "penalty": 26 },
+    { "pattern": "\\bEHS\\b|\\bOSHA\\b|\\bsafety manager\\b", "penalty": 24 },
+    { "pattern": "\\bentry level\\b|\\bintern\\b|\\bassistant\\b", "penalty": 30 },
+    { "pattern": "\\bmarketing\\b|\\bsales\\b|\\bbusiness development\\b", "penalty": 34 },
+    { "pattern": "\\bsoftware engineer\\b|\\bDevOps\\b|\\bcloud engineer\\b", "penalty": 24 },
+    { "pattern": "\\bretail\\b|\\bhospitality\\b|\\bfood service\\b", "penalty": 20 }
+  ],
+
+  "test_cases": [
+    {
+      "title": "AS9100 Quality Engineer – Aerospace Manufacturing",
+      "company": "Collins Aerospace",
+      "description": "Lead AS9100 quality engineering activities including FAI, PPAP, root cause analysis, CAPA, supplier quality, and production quality support for aerospace components.",
+      "expected_score_range": [95, 100],
+      "rationale": "Exact target role combining AS9100, FAI, PPAP, supplier quality, and aerospace manufacturing."
+    },
+    {
+      "title": "Supplier Quality Engineer – Precision Machining",
+      "company": "Howmet Aerospace",
+      "description": "Manage supplier development, PPAP submissions, machining quality, GD&T reviews, and corrective actions for precision aerospace components.",
+      "expected_score_range": [85, 95],
+      "rationale": "Strong supplier quality role with machining, PPAP, GD&T, and aerospace alignment."
+    },
+    {
+      "title": "Quality Manager – ISO 9001 Manufacturing",
+      "company": "Siemens",
+      "description": "Oversee ISO 9001 QMS, internal audits, CAPA, production quality, and continuous improvement initiatives.",
+      "expected_score_range": [75, 90],
+      "rationale": "High-fit ISO 9001 quality management role with strong QMS and CI overlap."
+    },
+    {
+      "title": "Quality Technician – Manufacturing",
+      "company": "Generic Manufacturing Firm",
+      "description": "Perform inspections, measurements, and basic quality checks.",
+      "expected_score_range": [10, 25],
+      "rationale": "Low seniority and limited QMS/AS9100 responsibilities."
+    }
+  ]
 }
