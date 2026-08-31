@@ -1,18 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-31 18:52 UTC*
+*Last updated: 2026-08-31 19:52 UTC*
 
-**2 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=41c7aabbf451d463) — Office of Energy Infrastructure Safety
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-31
-
-### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)](https://www.indeed.com/viewjob?jk=70a932ddc8a38edd) — STATE WATER RESOURCES CONTROL BOARD
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7820–$11k/mo
+### [Principal, Air Quality and Climate Change Consultant](https://www.indeed.com/viewjob?jk=4e7eb95a0611ef4d) — Stantec
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $112k–$180k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-31
+- 🕒 **Posted:** 2026-02-20
