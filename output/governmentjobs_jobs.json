@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-30 16:26 UTC",
+  "scraped_at": "2026-08-31 16:26 UTC",
   "total": 9,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "County of Fresno",
-      "title": "ENVIRONMENTAL HEALTH AIDE",
-      "location": "Fresno County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5463618-0/environmental-health-aide",
-      "date_posted": "",
-      "salary": "$46,306.00 - $59,098.00 Annually",
-      "ats": "NEOGOV"
-    },
     {
       "company": "County of Mendocino",
       "title": "Environmental Health Manager",
@@ -19,6 +10,15 @@
       "url": "https://www.governmentjobs.com/jobs/5461125-0/environmental-health-manager",
       "date_posted": "",
       "salary": "$97,032.00 - $117,936.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Fresno",
+      "title": "ENVIRONMENTAL HEALTH AIDE",
+      "location": "Fresno County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5463618-0/environmental-health-aide",
+      "date_posted": "",
+      "salary": "$46,306.00 - $59,098.00 Annually",
       "ats": "NEOGOV"
     },
     {
