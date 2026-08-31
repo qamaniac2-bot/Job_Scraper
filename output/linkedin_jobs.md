@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-31 16:38 UTC*
+*Last updated: 2026-08-31 17:36 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4461230503/) — Metropolitan Water District of Southern California
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-31
-
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4460028729/) — AppleOne Employment Services
-- 📍 **Location:** Los Angeles, CA
+### [Wastewater Quality - Technical Advisor](https://www.linkedin.com/jobs/view/4452203842/) — Water Corporation
+- 📍 **Location:** Albany, Western Australia, Australia
 - 🕒 **Posted:** 2026-08-31
