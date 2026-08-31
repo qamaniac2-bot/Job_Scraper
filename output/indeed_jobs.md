@@ -1,11 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-31 19:52 UTC*
+*Last updated: 2026-08-31 20:52 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-### [Principal, Air Quality and Climate Change Consultant](https://www.indeed.com/viewjob?jk=4e7eb95a0611ef4d) — Stantec
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $112k–$180k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-02-20
+### [Environmental Analyst](https://www.indeed.com/viewjob?jk=2d19244101a2a559) — RoseyFields LLC
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $30–$35/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-08-31
