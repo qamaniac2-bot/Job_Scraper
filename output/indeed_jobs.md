@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-01 02:53 UTC*
+*Last updated: 2026-09-01 03:54 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-No new roles since the last run.
+### [Graduate Environmental Scientist- 2027](https://www.indeed.com/viewjob?jk=3568bab7e0e36097) — Mott MacDonald
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $79k–$88k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-31
