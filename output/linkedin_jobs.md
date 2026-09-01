@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-01 03:37 UTC*
+*Last updated: 2026-09-01 16:02 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4461768745/) — Kleinfelder
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $52,656 - $87,906
+- 🕒 **Posted:** 2026-09-01
