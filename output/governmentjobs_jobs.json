@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-01 16:45 UTC",
-  "total": 12,
-  "new_count": 4,
+  "scraped_at": "2026-09-02 16:32 UTC",
+  "total": 15,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Fresno",
@@ -37,6 +37,15 @@
       "url": "https://www.governmentjobs.com/jobs/5462563-0/environmental-health-specialist-i-ii-senior",
       "date_posted": "",
       "salary": "$60,174.40 - $93,641.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Los Angeles",
+      "title": "ENVIRONMENTAL HEALTH SPECIALIST III / EMERGENCY APPOINTMENT HOMELESSNESS",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5405382-0/environmental-health-specialist-iii-emergency-appointment-homelessness",
+      "date_posted": "",
+      "salary": "$77,181.84 - $104,006.16 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -76,12 +85,30 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "City of Palo Alto",
+      "title": "Water Quality Plant Manager of Maintenance Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
+      "date_posted": "",
+      "salary": "$118,643.20 - $177,944.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of El Cerrito",
       "title": "ENVIRONMENTAL SPECIALIST",
       "location": "El Cerrito, CA",
       "url": "https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist",
       "date_posted": "",
       "salary": "$81,744.00 - $99,360.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist III",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii",
+      "date_posted": "",
+      "salary": "$103,105.44 - $125,321.76 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -94,59 +121,50 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Brevard County Board of County Commissioners",
-      "title": "Associate Environmental Specialist (23394)",
-      "location": "Melbourne, FL",
-      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of Folsom",
       "title": "Senior Environmental Specialist - Recycling",
       "location": "Folsom, CA",
       "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
       "date_posted": "",
       "salary": "$81,379.33 - $103,088.89 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
+      "date_posted": "",
+      "salary": "",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of El Cerrito",
-      "title": "ENVIRONMENTAL SPECIALIST",
-      "location": "El Cerrito, CA",
-      "url": "https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist",
+      "company": "County of Los Angeles",
+      "title": "ENVIRONMENTAL HEALTH SPECIALIST III / EMERGENCY APPOINTMENT HOMELESSNESS",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5405382-0/environmental-health-specialist-iii-emergency-appointment-homelessness",
       "date_posted": "",
-      "salary": "$81,744.00 - $99,360.00 Annually",
+      "salary": "$77,181.84 - $104,006.16 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Santa Rosa",
-      "title": "Environmental Specialist I/II",
-      "location": "MSCS-69 Stony Circle Santa Rosa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5401336-0/environmental-specialist-i-ii",
+      "company": "City of Palo Alto",
+      "title": "Water Quality Plant Manager of Maintenance Operations",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5425173-0/water-quality-plant-manager-of-maintenance-operations",
       "date_posted": "",
-      "salary": "$94,906.00 - $129,466.00 Annually",
+      "salary": "$118,643.20 - $177,944.00 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Brevard County Board of County Commissioners",
-      "title": "Associate Environmental Specialist (23394)",
-      "location": "Melbourne, FL",
-      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist III",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii",
       "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Folsom",
-      "title": "Senior Environmental Specialist - Recycling",
-      "location": "Folsom, CA",
-      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
-      "date_posted": "",
-      "salary": "$81,379.33 - $103,088.89 Annually",
+      "salary": "$103,105.44 - $125,321.76 Annually",
       "ats": "NEOGOV"
     }
   ]
