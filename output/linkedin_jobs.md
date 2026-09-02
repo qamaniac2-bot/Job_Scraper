@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-02 00:49 UTC*
+*Last updated: 2026-09-02 01:39 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Water Resources Coordinator/EIT](https://www.linkedin.com/jobs/view/4460672560/) — HDR
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $71,000 - $95,000
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4460670275/) — RoseyFields
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $30.00 - $35.00 per hour
 - 🕒 **Posted:** 2026-09-02
