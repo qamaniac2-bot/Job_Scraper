@@ -1,10 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-02 00:55 UTC*
+*Last updated: 2026-09-02 02:02 UTC*
 
-**1 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-### [Environmental Scientist/Compliance Specialist (Remote)](https://www.indeed.com/viewjob?jk=62367f829ad94483) — Tetra Tech
-- 📍 **Location:** Diamond Bar, CA, US
-- 💰 **Salary:** $55k–$75k/yr
-- **Work mode:** Remote in-state eligible
+### [Environmental Specialist](https://www.indeed.com/viewjob?jk=39cb4572364f7931) — Kleinfelder
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $53k–$88k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-01
