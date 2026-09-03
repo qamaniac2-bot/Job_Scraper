@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-02 15:49 UTC",
-  "total": 9,
+  "scraped_at": "2026-09-03 15:46 UTC",
+  "total": 10,
   "new_count": 1,
   "jobs": [
     {
@@ -19,6 +19,15 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $76,463 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "National Park Service",
+      "title": "Environmental Protection Specialist",
+      "location": "Baker, Nevada",
+      "url": "https://www.usajobs.gov/job/883228700",
+      "date_posted": "2026-09-03",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
@@ -88,11 +97,11 @@
   "new_jobs": [
     {
       "company": "National Park Service",
-      "title": "Environmental Protection Specialist (Temporary)",
-      "location": "West Glacier, Montana",
-      "url": "https://www.usajobs.gov/job/883109700",
-      "date_posted": "2026-09-01",
-      "salary": "Starting at $29.57 Per hour (GS 9)",
+      "title": "Environmental Protection Specialist",
+      "location": "Baker, Nevada",
+      "url": "https://www.usajobs.gov/job/883228700",
+      "date_posted": "2026-09-03",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
       "ats": "USAJOBS"
     }
   ]
