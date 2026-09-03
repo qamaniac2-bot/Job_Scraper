@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-03 17:59 UTC",
+  "scraped_at": "2026-09-03 18:59 UTC",
   "total": 19,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Integral Consulting Inc.",
@@ -270,20 +270,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "NAMSA",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://namsa.wd5.myworkdayjobs.com/namsa/job/Remote---USA/Toxicologist_R5314",
-      "direct_url": "https://namsa.wd5.myworkdayjobs.com/namsa/job/Remote---USA/Toxicologist_R5314",
-      "date_posted": "2026-09-02T00:00:00.000Z",
-      "description": "Bachelor’s degree with 5+ years of relevant experience, or master’s/doctorate with 2+ years. Requires medical device standards knowledge, biocompatibility expertise, complex document writing, and English fluency.",
-      "salary": "$84k–$163k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
