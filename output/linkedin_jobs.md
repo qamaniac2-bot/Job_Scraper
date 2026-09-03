@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-03 00:50 UTC*
+*Last updated: 2026-09-03 01:44 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4462721513/) — Alignerr
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 💰 **Salary:** $75.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-09-03
