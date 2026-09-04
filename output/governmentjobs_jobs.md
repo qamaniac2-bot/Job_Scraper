@@ -1,6 +1,16 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-03 16:31 UTC*
+*Last updated: 2026-09-04 16:30 UTC*
 
-**0 new role(s)** since last run · 13 total in recent GovernmentJobs postings
+**3 new role(s)** since last run · 14 total in recent GovernmentJobs postings
 
-No new state/local-gov roles since the last run.
+### [ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS](https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness) — County of Los Angeles
+- 📍 **Location:** Los Angeles County, CA
+- 💰 **Salary:** $74,012.88 - $94,477.20 Annually
+
+### [Associate Environmental Specialist (Regulatory and Environmental Planner)](https://www.governmentjobs.com/jobs/5468118-0/associate-environmental-specialist-regulatory-and-environmental-planner) — County of Riverside
+- 📍 **Location:** Riverside
+- 💰 **Salary:** $86,740.16 - $132,980.74 Annually
+
+### [Senior Environmental Specialist - Recycling](https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling) — City of Folsom
+- 📍 **Location:** Folsom, CA
+- 💰 **Salary:** $81,379.33 - $103,088.89 Annually
