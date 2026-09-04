@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-04 18:44 UTC*
+*Last updated: 2026-09-04 19:37 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4457355883/) — APTIM
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $35 to $38.46 per hour
+### [Environmental Scientist 1](https://www.linkedin.com/jobs/view/4463620789/) — Apex Companies
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-09-04
