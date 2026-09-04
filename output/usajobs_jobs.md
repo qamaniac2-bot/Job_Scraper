@@ -1,9 +1,6 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-09-03 15:46 UTC*
+*Last updated: 2026-09-04 15:45 UTC*
 
-**1 new role(s)** since last run · 10 total in current USAJOBS postings
+**0 new role(s)** since last run · 10 total in current USAJOBS postings
 
-### [Environmental Protection Specialist](https://www.usajobs.gov/job/883228700) — National Park Service
-- 📍 **Location:** Baker, Nevada
-- 💰 **Salary:** Starting at $61,722 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-09-03
+No new federal roles since the last run.
