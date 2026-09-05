@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-05 01:38 UTC*
+*Last updated: 2026-09-05 02:41 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4462340795/) — HydroGeoLogic, Inc.
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $73,512.00/yr - $106,593.00/yr
-- 🕒 **Posted:** 2026-09-05
+No new roles since the last run.
