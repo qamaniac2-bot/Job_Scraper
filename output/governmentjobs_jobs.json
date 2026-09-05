@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-04 16:30 UTC",
-  "total": 14,
-  "new_count": 3,
+  "scraped_at": "2026-09-05 16:29 UTC",
+  "total": 13,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "County of Riverside",
+      "title": "Associate Environmental Specialist (Regulatory and Environmental Planner)",
+      "location": "Riverside",
+      "url": "https://www.governmentjobs.com/jobs/5468118-0/associate-environmental-specialist-regulatory-and-environmental-planner",
+      "date_posted": "",
+      "salary": "$86,740.16 - $132,980.74 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "County of Fresno",
       "title": "ENVIRONMENTAL HEALTH AIDE",
@@ -31,21 +40,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Los Angeles",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness",
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist I/II/Senior",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5462563-0/environmental-health-specialist-i-ii-senior",
       "date_posted": "",
-      "salary": "$74,012.88 - $94,477.20 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Watsonville",
-      "title": "Water Quality Chemist",
-      "location": "City of Watsonville, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
-      "date_posted": "",
-      "salary": "$86,881.60 - $116,438.40 Annually",
+      "salary": "$60,174.40 - $93,641.60 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -103,15 +103,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Riverside",
-      "title": "Associate Environmental Specialist (Regulatory and Environmental Planner)",
-      "location": "Riverside",
-      "url": "https://www.governmentjobs.com/jobs/5468118-0/associate-environmental-specialist-regulatory-and-environmental-planner",
-      "date_posted": "",
-      "salary": "$86,740.16 - $132,980.74 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "Brevard County Board of County Commissioners",
       "title": "Associate Environmental Specialist (23394)",
       "location": "Melbourne, FL",
@@ -132,30 +123,12 @@
   ],
   "new_jobs": [
     {
-      "company": "County of Los Angeles",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness",
+      "company": "County of Lake",
+      "title": "Environmental Health Specialist I/II/Senior",
+      "location": "Lake County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5462563-0/environmental-health-specialist-i-ii-senior",
       "date_posted": "",
-      "salary": "$74,012.88 - $94,477.20 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Riverside",
-      "title": "Associate Environmental Specialist (Regulatory and Environmental Planner)",
-      "location": "Riverside",
-      "url": "https://www.governmentjobs.com/jobs/5468118-0/associate-environmental-specialist-regulatory-and-environmental-planner",
-      "date_posted": "",
-      "salary": "$86,740.16 - $132,980.74 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Folsom",
-      "title": "Senior Environmental Specialist - Recycling",
-      "location": "Folsom, CA",
-      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
-      "date_posted": "",
-      "salary": "$81,379.33 - $103,088.89 Annually",
+      "salary": "$60,174.40 - $93,641.60 Annually",
       "ats": "NEOGOV"
     }
   ]
