@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-05 18:42 UTC*
+*Last updated: 2026-09-05 19:37 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**0 new role(s)** since last run · 1 total in last 1h
 
-### [Drinking Water Business Development Director](https://www.linkedin.com/jobs/view/4462655013/) — HDR
-- 📍 **Location:** Oregon, United States
-- 💰 **Salary:** $176,000 - $315,000
-- 🕒 **Posted:** 2026-09-05
+No new roles since the last run.
