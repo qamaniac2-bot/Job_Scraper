@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-05 20:52 UTC",
-  "total": 5,
+  "scraped_at": "2026-09-05 21:52 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -36,24 +36,6 @@
       "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "T&B Planning, Inc.",
-      "title": "Environmental Analyst",
-      "location": "Irvine, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=1eab4f61a6b642e7",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3061469/TB-Planning-Inc/Environmental-Analyst?source=Indeed_Feed",
-      "company_url": "https://www.indeed.com/cmp/T&B-Planning,-Inc.",
-      "date_posted": "2026-09-04",
-      "description": "Description:\n\nT\\&B Planning’s Environmental Analysts work in a collaborative environment preparing CEQA and/or NEPA compliance documents for land development, policy planning, and infrastructure projects. Environmental Analysts are primarily responsible for research and analysis, keeping project files organized, reviewing and proofreading technical reports, and writing environmental compliance documents. Document types include Environmental Impact Reports or Statements (EIR/EIS), Mitigated Negative Declarations (MNDs), Addenda, Findings, Environmental Assessments (EAs) and public notices. Environmental Analysts also assist Project Managers with preparing meeting agendas, collecting and distributing meeting notes, tracking project status, and schedule management. Opportunities are provided for on\\-the\\-job training and professional development.\n\n\nThe position of Environmental Analyst is ideal for an early career candidate with fewer than 7 years of CEQA or NEPA document preparation experience, who enjoys both autonomous and collaborative work environments, and can commit to working full time. In\\-office and hybrid positions are available, with preference given to candidates who can commit to working at least one day per week in person in Irvine CA, San Diego CA, Pittsburgh PA or Portland OR.\n\n\nRequirements:\n* Prepare CEQA and/or NEPA compliance documents\n* Writing, proofreading and editing\n* Data collection and analysis\n* Schedule tracking and management\n* Organization of project files\n* Research planning, zoning, entitlement permits, and environmental clearances\n* Attend meetings and public hearings remotely and/or in person\n* Bachelor’s or Master’s Degree; preferably in environmental studies, urban planning, writing, public administration, or project management\n* Strong organizational, writing, and proofreading skills\n* Proficient in MS Word, Outlook, and Excel\n* Effective and collaborative communicator\n* Motivated toward career advancement",
-      "salary": "$64k–$83k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
     },
