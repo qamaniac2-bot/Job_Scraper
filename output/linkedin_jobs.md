@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-07 03:40 UTC*
+*Last updated: 2026-09-07 15:41 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Health Physicist- Licensing (Environmental Health Specialist 3)](https://www.linkedin.com/jobs/view/4458047693/) — Oregon Health Authority
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $5,714.00/mo - $8,764.00/mo
+- 🕒 **Posted:** 2026-09-07
