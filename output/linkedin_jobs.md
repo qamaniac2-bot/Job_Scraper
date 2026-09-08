@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-08 19:40 UTC*
+*Last updated: 2026-09-08 20:42 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Strengthening NASA Air Quality Observations with Low-Cost Sensor Data](https://www.linkedin.com/jobs/view/4462533755/) — ORAU
+- 📍 **Location:** Santa Clara County, CA
+- 🕒 **Posted:** 2026-09-08
