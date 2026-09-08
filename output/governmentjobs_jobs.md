@@ -1,8 +1,11 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-07 16:31 UTC*
+*Last updated: 2026-09-08 16:34 UTC*
 
-**1 new role(s)** since last run · 12 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 13 total in recent GovernmentJobs postings
 
-### [Senior Environmental Health Specialist](https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist) — County of Santa Clara
-- 📍 **Location:** Throughout the County of Santa Clara, CA
-- 💰 **Salary:** $125,440.64 - $151,925.28 Annually
+### [ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS](https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness) — County of Los Angeles
+- 📍 **Location:** Los Angeles County, CA
+- 💰 **Salary:** $74,012.88 - $94,477.20 Annually
+
+### [Associate Environmental Specialist (23394)](https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394) — Brevard County Board of County Commissioners
+- 📍 **Location:** Melbourne, FL
