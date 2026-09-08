@@ -1,11 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-08 18:57 UTC*
+*Last updated: 2026-09-08 19:53 UTC*
 
-**1 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-### [Early Career Air Quality Specialist](https://www.indeed.com/viewjob?jk=47be867b6f73446a) — Maul Foster & Alongi
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $33–$38/hr
+### [Director, Nonclinical Toxicology Operations](https://www.indeed.com/viewjob?jk=f76340b52fa4f76c) — NURIX
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $221k–$253k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-03
+- 🕒 **Posted:** 2026-09-08
