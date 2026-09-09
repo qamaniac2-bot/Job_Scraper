@@ -1,9 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-09 17:42 UTC*
+*Last updated: 2026-09-09 18:47 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Principal Toxicologist (Ph.D.)](https://www.linkedin.com/jobs/view/4322069915/) — Exponent
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** USD $200,000.00 - USD $300,000.00 /Yr
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4463068481/) — TRC Companies, Inc.
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** USD $26.75 - USD $40.15 /Hr
+- 🕒 **Posted:** 2026-09-09
+
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4465305476/) — Zonberation Group
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $95,000.00 - $120,000.00 Per Year
 - 🕒 **Posted:** 2026-09-09
