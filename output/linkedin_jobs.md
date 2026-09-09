@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-09 20:41 UTC*
+*Last updated: 2026-09-09 21:40 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Health Officer](https://www.linkedin.com/jobs/view/4463053963/) — NT Health
-- 📍 **Location:** Alice Springs, Northern Territory, Australia
-- 💰 **Salary:** $113,101 - $134,507
+### [Health Physicist- Licensing (Environmental Health Specialist 3)](https://www.linkedin.com/jobs/view/4458047693/) — Oregon Health Authority
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $5,714.00/mo - $8,764.00/mo
 - 🕒 **Posted:** 2026-09-09
