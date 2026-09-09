@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-09 16:45 UTC*
+*Last updated: 2026-09-09 17:42 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Temp Senior Research Associate, Investigative Toxicology](https://www.linkedin.com/jobs/view/4463045321/) — Revolution Medicines
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4454439111/) — Republic Services
-- 📍 **Location:** Santee, CA
-- 💰 **Salary:** $75,000.00 to $103,050.00
+### [Principal Toxicologist (Ph.D.)](https://www.linkedin.com/jobs/view/4322069915/) — Exponent
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** USD $200,000.00 - USD $300,000.00 /Yr
 - 🕒 **Posted:** 2026-09-09
