@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-10 01:55 UTC*
+*Last updated: 2026-09-10 02:54 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Environmental Scientist](https://www.indeed.com/viewjob?jk=cbb4ec2d875fdf75) — TRC
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $26–$40/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-09
