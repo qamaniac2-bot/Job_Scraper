@@ -1,6 +1,16 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-11 01:54 UTC*
+*Last updated: 2026-09-11 02:54 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Environmental Health Officers](https://au.indeed.com/viewjob?jk=bcc0273663e805e5) — Redland City Council
+- 📍 **Location:** Redland, QLD, AU
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Third-Party Risk Remediation Specialist, Core+](https://au.indeed.com/viewjob?jk=8e4933562f6f9011) — AIG
+- 📍 **Location:** Docklands, VIC, AU
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
