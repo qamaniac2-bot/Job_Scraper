@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-10 15:47 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-09-11 15:46 UTC",
+  "total": 8,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -10,6 +10,24 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $90,823 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Environmental Protection Specialist",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/884164900",
+      "date_posted": "2026-09-11",
+      "salary": "Starting at $111,896 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "George C. Marshall Space Flight Center",
+      "title": "Public Notice - Environmental Protection (Direct Hire)",
+      "location": "Huntsville, Alabama",
+      "url": "https://www.usajobs.gov/job/884044400",
+      "date_posted": "2026-09-11",
+      "salary": "Starting at $74,678 Per year (GS 11-13)",
       "ats": "USAJOBS"
     },
     {
@@ -58,5 +76,24 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Environmental Protection Specialist",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/884164900",
+      "date_posted": "2026-09-11",
+      "salary": "Starting at $111,896 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "George C. Marshall Space Flight Center",
+      "title": "Public Notice - Environmental Protection (Direct Hire)",
+      "location": "Huntsville, Alabama",
+      "url": "https://www.usajobs.gov/job/884044400",
+      "date_posted": "2026-09-11",
+      "salary": "Starting at $74,678 Per year (GS 11-13)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
