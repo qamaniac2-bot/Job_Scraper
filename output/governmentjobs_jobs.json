@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-11 16:33 UTC",
+  "scraped_at": "2026-09-12 16:29 UTC",
   "total": 16,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -148,42 +148,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Orange",
-      "title": "HAZARDOUS MATERIALS SPECIALIST I",
-      "location": "Santa Ana, CA",
-      "url": "https://www.governmentjobs.com/jobs/5477314-0/hazardous-materials-specialist-i",
-      "date_posted": "",
-      "salary": "$63,044.80 - $84,968.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Orange",
-      "title": "HAZARDOUS MATERIALS SPECIALIST II",
-      "location": "Santa Ana, CA",
-      "url": "https://www.governmentjobs.com/jobs/5477352-0/hazardous-materials-specialist-ii",
-      "date_posted": "",
-      "salary": "$76,190.40 - $102,731.20 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Mendocino",
-      "title": "Hazardous Materials Operations Specialist",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5473934-0/hazardous-materials-operations-specialist",
-      "date_posted": "",
-      "salary": "$70,345.60 - $85,488.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Sunnyvale",
-      "title": "Senior Hazardous Materials Inspector",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.governmentjobs.com/jobs/5468792-0/senior-hazardous-materials-inspector",
-      "date_posted": "",
-      "salary": "$77.19 - $98.51 Hourly",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
