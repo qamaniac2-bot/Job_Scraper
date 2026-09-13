@@ -1,11 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-12 23:52 UTC*
+*Last updated: 2026-09-13 00:56 UTC*
 
-**1 new role(s)** since last run · 11 total in last 24h
+**0 new role(s)** since last run · 9 total in last 24h
 
-### [Environmental Protection Specialist](https://www.indeed.com/viewjob?jk=2d16a62b5ade1e72) — US Department of Veterans Affairs
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $112k–$145k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
+No new roles since the last run.
