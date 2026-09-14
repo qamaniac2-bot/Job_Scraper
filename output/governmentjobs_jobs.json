@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-13 16:31 UTC",
+  "scraped_at": "2026-09-14 16:32 UTC",
   "total": 11,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -10,24 +10,6 @@
       "url": "https://www.governmentjobs.com/jobs/5461125-0/environmental-health-manager",
       "date_posted": "",
       "salary": "$97,032.00 - $117,936.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Monterey",
-      "title": "Environmental Health Specialist IV",
-      "location": "Salinas, CA",
-      "url": "https://www.governmentjobs.com/jobs/5451489-0/environmental-health-specialist-iv",
-      "date_posted": "",
-      "salary": "$8,129.33 - $11,097.49 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Los Angeles",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness",
-      "date_posted": "",
-      "salary": "$74,012.88 - $94,477.20 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -40,12 +22,30 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "County of Los Angeles",
+      "title": "ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness",
+      "date_posted": "",
+      "salary": "$74,012.88 - $94,477.20 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "County of Santa Clara",
       "title": "Senior Environmental Health Specialist",
       "location": "Throughout the County of Santa Clara, CA",
       "url": "https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist",
       "date_posted": "",
       "salary": "$125,440.64 - $151,925.28 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Napa",
+      "title": "Senior Environmental Health Specialist - REPOST",
+      "location": "Napa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5469087-0/senior-environmental-health-specialist-repost",
+      "date_posted": "",
+      "salary": "$109,428.80 - $130,936.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -103,5 +103,15 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Napa",
+      "title": "Senior Environmental Health Specialist - REPOST",
+      "location": "Napa, CA",
+      "url": "https://www.governmentjobs.com/jobs/5469087-0/senior-environmental-health-specialist-repost",
+      "date_posted": "",
+      "salary": "$109,428.80 - $130,936.00 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }
