@@ -1,10 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-14 22:54 UTC*
+*Last updated: 2026-09-14 23:52 UTC*
 
-**1 new role(s)** since last run · 2 total in last 24h
+**0 new role(s)** since last run · 2 total in last 24h
 
-### [Environmental Scientist/Industrial Hygienist](https://www.indeed.com/viewjob?jk=17218a4d646db7e9) — Apex Companies, LLC
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $75k–$85k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-14
+No new roles since the last run.
