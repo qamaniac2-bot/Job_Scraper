@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-14 16:32 UTC",
-  "total": 11,
-  "new_count": 1,
+  "scraped_at": "2026-09-15 16:32 UTC",
+  "total": 9,
+  "new_count": 3,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -28,15 +28,6 @@
       "url": "https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness",
       "date_posted": "",
       "salary": "$74,012.88 - $94,477.20 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Santa Clara",
-      "title": "Senior Environmental Health Specialist",
-      "location": "Throughout the County of Santa Clara, CA",
-      "url": "https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist",
-      "date_posted": "",
-      "salary": "$125,440.64 - $151,925.28 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -67,50 +58,59 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Orange",
-      "title": "HAZARDOUS MATERIALS SPECIALIST I",
-      "location": "Santa Ana, CA",
-      "url": "https://www.governmentjobs.com/jobs/5477314-0/hazardous-materials-specialist-i",
+      "company": "City of El Cerrito",
+      "title": "ENVIRONMENTAL SPECIALIST",
+      "location": "El Cerrito, CA",
+      "url": "https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist",
       "date_posted": "",
-      "salary": "$63,044.80 - $84,968.00 Annually",
+      "salary": "$81,744.00 - $99,360.00 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Orange",
-      "title": "HAZARDOUS MATERIALS SPECIALIST II",
-      "location": "Santa Ana, CA",
-      "url": "https://www.governmentjobs.com/jobs/5477352-0/hazardous-materials-specialist-ii",
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist III",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii",
       "date_posted": "",
-      "salary": "$76,190.40 - $102,731.20 Annually",
+      "salary": "$103,105.44 - $125,321.76 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Mendocino",
-      "title": "Hazardous Materials Operations Specialist",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5473934-0/hazardous-materials-operations-specialist",
+      "company": "City of Folsom",
+      "title": "Senior Environmental Specialist - Recycling",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
       "date_posted": "",
-      "salary": "$70,345.60 - $85,488.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Sunnyvale",
-      "title": "Senior Hazardous Materials Inspector",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.governmentjobs.com/jobs/5468792-0/senior-hazardous-materials-inspector",
-      "date_posted": "",
-      "salary": "$77.19 - $98.51 Hourly",
+      "salary": "$81,379.33 - $103,088.89 Annually",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of Napa",
-      "title": "Senior Environmental Health Specialist - REPOST",
-      "location": "Napa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5469087-0/senior-environmental-health-specialist-repost",
+      "company": "City of El Cerrito",
+      "title": "ENVIRONMENTAL SPECIALIST",
+      "location": "El Cerrito, CA",
+      "url": "https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist",
       "date_posted": "",
-      "salary": "$109,428.80 - $130,936.00 Annually",
+      "salary": "$81,744.00 - $99,360.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist III",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii",
+      "date_posted": "",
+      "salary": "$103,105.44 - $125,321.76 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Folsom",
+      "title": "Senior Environmental Specialist - Recycling",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling",
+      "date_posted": "",
+      "salary": "$81,379.33 - $103,088.89 Annually",
       "ats": "NEOGOV"
     }
   ]
