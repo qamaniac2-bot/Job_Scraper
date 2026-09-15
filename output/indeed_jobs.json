@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-15 19:53 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-09-15 20:54 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
       "company": "DEPARTMENT OF FISH AND WILDLIFE",
@@ -110,7 +110,44 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
+    },
+    {
+      "company": "NAB - National Australia Bank",
+      "title": "Product Owner (Customer Risk Assessment )",
+      "location": "AU",
+      "url": "https://au.indeed.com/viewjob?jk=ecb476245725e368",
+      "direct_url": "https://careers.nab.com.au/jobs/product-owner-customer-risk-assessment-nsw-sydney-cbd-nsw-australia-qld-brisbane-inner-qld-vic-melbourne-cbd-vic-australia-wide",
+      "company_url": "https://au.indeed.com/cmp/Nab---National-Australia-Bank",
+      "date_posted": "2026-09-15",
+      "description": "### **Product Owner (Customer Risk Assessment )**\n\n\n* 808984\n* Australia\\-wide\n* NSW\\- Sydney CBD\n* QLD\\- Brisbane inner\n* VIC\\- Melbourne CBD\n\nShow More Show Less\n\n\n* Product Management\n* Permanent Full time\n* Opening at: Sep 15 2026 \\- 06:00 AEST\n* Closing at: Sep 20 2026 \\- 23:55 AEST\n  \n\n\n\n\n* Own the product roadmap, prioritised backlog and delivery outcomes for Customer Risk Assessment capabilities\n* Partner across Financial Crime, Risk, Operations, Data and Engineering to deliver well\\-governed solutions\n* Make informed product decisions that balance regulatory commitments, customer impact, risk outcomes and technical sustainability\n\n\nOur people are customer obsessed. They prioritise the needs and satisfaction of the customer above all else. Our mindset fosters innovation and creates strong, lasting customer relationships as we strive to be the most customer centric company in Australia and New Zealand.\n\n\n\nAs the **Product Owner, Customer Risk Assessment**, you will be part of a team that is owning it and keeping it simple.\n\n\n**Each day, you’ll go above and beyond to:**\n\n\n* Own and continuously refine the executable product roadmap and prioritised backlog.\n\n\n* Translate approved financial crime risk methodologies and product strategy into features, user stories, acceptance criteria and measurable outcomes.\n\n\n* Prioritise and sequence delivery based on risk outcomes, regulatory commitments, customer value, dependencies and delivery capacity.\n\n\n* Define acceptance criteria, assess completed work and support\\-controlled release and adoption of delivered capabilities.\n\n\n* Ensure appropriate testing across risk scenarios, data behaviour, decision traceability, edge cases and user workflows.\n\n\n* Use product and risk performance data to identify improvement opportunities and provide insights to the Product Manager.\n\n\n* Partner with Financial Crime, Operations, Risk, Engineering and Data Science teams to support effective implementation.\n\n\n* Maintain clear reporting on delivery progress, product health, dependencies, risks and realised outcomes.\n\n\n**We’re looking for the best and brightest to deliver the best for our customers. You’ll need:**\n\n\n* Strong Product Owner or product delivery experience within banking, Financial Crime, Risk, Data or another complex regulated environment.\n\n\n* Experience with Customer Risk Rating or Assessment, KYC/CDD, ongoing CDD, transaction monitoring or financial crime platforms.\n\n\n* Strong knowledge of Australian AML/CTF requirements and ongoing customer due diligence expectations.\n\n\n* Demonstrated ability to translate complex regulatory, risk and operational requirements into implemented product capabilities.\n\n\n* Experience delivering across business, risk, data and technology teams, rather than solely managing a technology backlog.\n\n\n* Strong data and analytics literacy, including an understanding of risk distributions, model outputs and performance evidence.\n\n\n* Exposure to machine learning, analytics\\-enabled risk detection capabilities and model governance.\n\n\n* Strong stakeholder engagement, Agile delivery, prioritisation and dependency management skills.\n\n\n**A diverse and inclusive workplace works better for everyone**\n\n\n\nWe know that our people make us who we are. That’s why we have built a culture of equity and respect \\- where everyone feels valued and appreciated for being their authentic selves. In partnership with our multiple Employee Resource Groups (ERGs), we continue to foster an inclusive environment, where all NAB colleagues’ unique backgrounds and identities are understood, respected and celebrated. We are committed to providing an environment where you can work your way.\n\n\n\nFor details on the recruitment process, and accessibility, or alternate methods to apply for this role, please visit https://www.nab.com.au/about\\-us/careers/apply\\-for\\-job. To discuss adjustment requirements, please contact the NAB Careers team via nab.careers@nab.com.au (please reference job number) or visit our Careers page through the link above for other contact options.\n\n\n**Join NAB**\n\n\n\nIf you think this role is the right fit for you, we would love to hear from you. Please note candidate screening and interviews may be conducted prior to the closing date of the job advert. Unsolicited CVs from agencies will not be accepted.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "nab.careers@nab.com.au",
+      "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "NAB - National Australia Bank",
+      "title": "Product Owner (Customer Risk Assessment )",
+      "location": "AU",
+      "url": "https://au.indeed.com/viewjob?jk=ecb476245725e368",
+      "direct_url": "https://careers.nab.com.au/jobs/product-owner-customer-risk-assessment-nsw-sydney-cbd-nsw-australia-qld-brisbane-inner-qld-vic-melbourne-cbd-vic-australia-wide",
+      "company_url": "https://au.indeed.com/cmp/Nab---National-Australia-Bank",
+      "date_posted": "2026-09-15",
+      "description": "### **Product Owner (Customer Risk Assessment )**\n\n\n* 808984\n* Australia\\-wide\n* NSW\\- Sydney CBD\n* QLD\\- Brisbane inner\n* VIC\\- Melbourne CBD\n\nShow More Show Less\n\n\n* Product Management\n* Permanent Full time\n* Opening at: Sep 15 2026 \\- 06:00 AEST\n* Closing at: Sep 20 2026 \\- 23:55 AEST\n  \n\n\n\n\n* Own the product roadmap, prioritised backlog and delivery outcomes for Customer Risk Assessment capabilities\n* Partner across Financial Crime, Risk, Operations, Data and Engineering to deliver well\\-governed solutions\n* Make informed product decisions that balance regulatory commitments, customer impact, risk outcomes and technical sustainability\n\n\nOur people are customer obsessed. They prioritise the needs and satisfaction of the customer above all else. Our mindset fosters innovation and creates strong, lasting customer relationships as we strive to be the most customer centric company in Australia and New Zealand.\n\n\n\nAs the **Product Owner, Customer Risk Assessment**, you will be part of a team that is owning it and keeping it simple.\n\n\n**Each day, you’ll go above and beyond to:**\n\n\n* Own and continuously refine the executable product roadmap and prioritised backlog.\n\n\n* Translate approved financial crime risk methodologies and product strategy into features, user stories, acceptance criteria and measurable outcomes.\n\n\n* Prioritise and sequence delivery based on risk outcomes, regulatory commitments, customer value, dependencies and delivery capacity.\n\n\n* Define acceptance criteria, assess completed work and support\\-controlled release and adoption of delivered capabilities.\n\n\n* Ensure appropriate testing across risk scenarios, data behaviour, decision traceability, edge cases and user workflows.\n\n\n* Use product and risk performance data to identify improvement opportunities and provide insights to the Product Manager.\n\n\n* Partner with Financial Crime, Operations, Risk, Engineering and Data Science teams to support effective implementation.\n\n\n* Maintain clear reporting on delivery progress, product health, dependencies, risks and realised outcomes.\n\n\n**We’re looking for the best and brightest to deliver the best for our customers. You’ll need:**\n\n\n* Strong Product Owner or product delivery experience within banking, Financial Crime, Risk, Data or another complex regulated environment.\n\n\n* Experience with Customer Risk Rating or Assessment, KYC/CDD, ongoing CDD, transaction monitoring or financial crime platforms.\n\n\n* Strong knowledge of Australian AML/CTF requirements and ongoing customer due diligence expectations.\n\n\n* Demonstrated ability to translate complex regulatory, risk and operational requirements into implemented product capabilities.\n\n\n* Experience delivering across business, risk, data and technology teams, rather than solely managing a technology backlog.\n\n\n* Strong data and analytics literacy, including an understanding of risk distributions, model outputs and performance evidence.\n\n\n* Exposure to machine learning, analytics\\-enabled risk detection capabilities and model governance.\n\n\n* Strong stakeholder engagement, Agile delivery, prioritisation and dependency management skills.\n\n\n**A diverse and inclusive workplace works better for everyone**\n\n\n\nWe know that our people make us who we are. That’s why we have built a culture of equity and respect \\- where everyone feels valued and appreciated for being their authentic selves. In partnership with our multiple Employee Resource Groups (ERGs), we continue to foster an inclusive environment, where all NAB colleagues’ unique backgrounds and identities are understood, respected and celebrated. We are committed to providing an environment where you can work your way.\n\n\n\nFor details on the recruitment process, and accessibility, or alternate methods to apply for this role, please visit https://www.nab.com.au/about\\-us/careers/apply\\-for\\-job. To discuss adjustment requirements, please contact the NAB Careers team via nab.careers@nab.com.au (please reference job number) or visit our Careers page through the link above for other contact options.\n\n\n**Join NAB**\n\n\n\nIf you think this role is the right fit for you, we would love to hear from you. Please note candidate screening and interviews may be conducted prior to the closing date of the job advert. Unsolicited CVs from agencies will not be accepted.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "nab.careers@nab.com.au",
+      "ats": "Indeed"
+    }
+  ]
 }
