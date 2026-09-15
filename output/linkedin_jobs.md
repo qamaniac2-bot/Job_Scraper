@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-14 23:39 UTC*
+*Last updated: 2026-09-15 00:52 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Specialist I](https://www.linkedin.com/jobs/view/4467408557/) — Veolia | North America
+- 📍 **Location:** Troutdale, OR
+- 🕒 **Posted:** 2026-09-15
