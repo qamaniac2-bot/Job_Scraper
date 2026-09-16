@@ -1,16 +1,12 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-15 16:32 UTC*
+*Last updated: 2026-09-16 16:31 UTC*
 
-**3 new role(s)** since last run · 9 total in recent GovernmentJobs postings
+**2 new role(s)** since last run · 9 total in recent GovernmentJobs postings
 
-### [ENVIRONMENTAL SPECIALIST](https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist) — City of El Cerrito
-- 📍 **Location:** El Cerrito, CA
-- 💰 **Salary:** $81,744.00 - $99,360.00 Annually
+### [Senior Environmental Health Specialist](https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist) — County of Santa Clara
+- 📍 **Location:** Throughout the County of Santa Clara, CA
+- 💰 **Salary:** $125,440.64 - $151,925.28 Annually
 
-### [Environmental Specialist III](https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii) — County of Sacramento
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $103,105.44 - $125,321.76 Annually
-
-### [Senior Environmental Specialist - Recycling](https://www.governmentjobs.com/jobs/5427827-0/senior-environmental-specialist-recycling) — City of Folsom
-- 📍 **Location:** Folsom, CA
-- 💰 **Salary:** $81,379.33 - $103,088.89 Annually
+### [Senior Operator - Regional Water Quality Control Plant (Multiple Positions)](https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions) — City of Palo Alto
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $126,256.00 - $154,440.00 Annually
