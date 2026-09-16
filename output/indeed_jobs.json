@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-16 19:51 UTC",
-  "total": 8,
-  "new_count": 1,
+  "scraped_at": "2026-09-16 20:55 UTC",
+  "total": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "CALIFORNIA ENERGY COMMISSION",
@@ -112,24 +112,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "SME Careers by SuperAnnotate",
-      "title": "Chemical Safety Expert for AI Model Safety Audit",
-      "location": "Remote, AU",
-      "url": "https://au.indeed.com/viewjob?jk=23d49e36c08ab69b",
-      "direct_url": "https://www.sme.careers/jobs?externalKey=CHEMSAFETY-26-101",
-      "company_url": "https://au.indeed.com/cmp/Sme-Careers-By-Superannotate",
-      "date_posted": "2026-09-15",
-      "description": "\\#\\# Description SME Careers is hiring chemists and chemical safety professionals to audit how AI models respond to sensitive questions in the field. Each task gives you a user request and the answers three different models gave to it. You classify the request (benign, dual\\-use or adversarial), mark each answer as safe or unsafe and say why, rank the three against each other, and write the answer the model should have given. For dual\\-use requests you also note what makes it sensitive, what legitimate purpose it serves, and who should be able to get an answer. The requests are realistic: what synthetic and analytical chemists, toxicologists, industrial hygienists, process safety engineers, regulators and occasionally bad actors actually ask. Some are ordinary professional questions that models wrongly refuse, and catching those matters as much as catching the dangerous ones. \\#\\# Who we're looking for Synthetic and analytical chemists; toxicologists and pharmacologists; industrial hygienists and chemical safety/process safety professionals; CWC or chemical\\-security specialists; hazmat, poison\\-control or chemical incident responders; and chemical regulators (EPA, OSHA, HSE, OPCW\\-adjacent, or equivalent). Usually a relevant degree plus five or more years of professional experience. Experience with safety data sheets, exposure assessment, incident reports or regulatory review is a strong plus. \\#\\# Before you apply Open only to citizens or permanent residents of the US, UK, Canada, Australia or New Zealand.\n  \nrequirements\nresponsibilities\n* Develop AI Training Content: Create detailed prompts in various topics and responses to guide AI learning, ensuring the models reflect a comprehensive understanding of diverse subjects.\n\n\n* Optimize AI Performance: Evaluate and rank AI responses to enhance the model's accuracy, fluency, and contextual relevance.\n\n\n* Ensure Model Integrity: Test AI models for potential inaccuracies or biases, validating their reliability across use cases.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
       "company": "Onterris",
       "title": "Principal Environmental Scientist or Planner",
       "location": "Brisbane, QLD, AU",
@@ -148,24 +130,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "CALIFORNIA ENERGY COMMISSION",
-      "title": "AIR POLLUTION SPECIALIST",
-      "location": "CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9cb3656f3d1c29d1",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532245",
-      "company_url": "https://www.indeed.com/cmp/California-Energy-Commission",
-      "date_posted": "2026-09-16",
-      "description": "Job Posting: Air Pollution Specialist\n\n\n\nCalifornia Energy Commission\n\n\nJC\\-532245* \n\nAir Pollution Specialist\n  \n\nAIR POLLUTION SPECIALIST\n$5,918\\.00 \\- $11,455\\.00 per Month\n  \n\nNew to State candidates will be hired into the minimum salary of the classification or minimum of alternate range when applicable.\n\n\n**Final Filing Date:** **10/7/2026**\n\n\n**Application Methods:**Electronic (Using your CalCareer Account)\nBy Mail\nDrop\\-off\nPrint Job\nSave Job\n### **Job Description and Duties**\n\n\nUnder close supervision of the Program and Project Supervisor (PPS) in the Regulations and Legislative Unit within the Fuels and Transportation Division, the incumbent may serve as a team lead in the development and deployment of alternative fuel vehicles, fueling infrastructure, and alternative fuel production in California by performing complex technical and analytical tasks. The incumbent will work independently and participate in a team and use scientific principles to evaluate vehicle, infrastructure, and fuel production issues and assist private and public partners to introduce improved vehicles, engines, fueling stations, other related infrastructure, and alternative fuels through joint funding of projects, technical assistance, and education and outreach activities.\n\n\nThe primary responsibilities of this position are to identify, assess and prioritize innovative, cost\\-effective strategies that reduce toxic air pollutants and greenhouse gas emissions to provide incentives for cost\\-effective approaches that achieve the goals of the Clean Transportation and Greenhouse Gas Reduction Fund (GGRF) Programs. The incumbent will establish working relationships with other government agencies and industry stakeholders to ensure that the Energy Commission and the ARFVTP have access to current technology information, in order to recommend policy options to maintain and increase the development of incentive programs to meet the policies and regulations associated with alternative and renewable fuels and vehicle technologies.\n\n\n**Minimum Qualifications (MQs):** The MQs for this classification can be found at Air Pollution Specialist Series. The documents you submit in your application package must highlight how you meet the MQs. If the MQs are not met, you will not be considered for this position.\n\n\n**Education Information:** If you are using education to meet the minimum qualifications for this classification, please provide your unofficial transcripts. Applicants who completed their education outside of the United States (with foreign degrees/transcripts) must provide evaluated transcripts. The transcript evaluation must state the number of units to which foreign coursework is equal. Foreign education evaluation services can be found at https://www.naces.org. Official transcripts and official foreign degree transcripts will be required prior to appointment. If you are not using education to qualify for this classification, you do not need to submit transcripts. To bypass the required document, select Choose/Upload and select Bypass File.\n\n\nPlease let us know how you heard about this position by taking a brief survey at CEC Recruitment Survey.\n\n  \n\nYou will find additional information about the job in the **Duty Statement**.\n\n\n### **Working Conditions**\n\n\nThe CEC supports a hybrid workplace model with office\\-based and remote\\-centered workers. Limited in\\-person attendance and occasional travel may be required based on the needs of the division. Regular and consistent attendance is essential to successful performance. This position is remote\\-centered, which means the incumbent works 50 percent or more of their time from an alternate work location.\n\n\nTeleworking is only available for employees who reside in California. You must be located in California and provide your in\\-state address prior to your start date.\n\n\n  \n### **Position Details**\n\n\n**Job Code \\#:**\nJC\\-532245\n**Position \\#(s):**\n535\\-620\\-3887\\-003\n**Working Title:**\n**Air Pollution Specialist**\n**Classification:**\nAIR POLLUTION SPECIALIST\n$5,918\\.00 \\- $7,059\\.00 A\n$7,089\\.00 \\- $8,872\\.00 B\n$9,158\\.00 \\- $11,455\\.00 C\nNew to State candidates will be hired into the minimum salary of the classification or minimum of alternate range when applicable.\n**\\# of Positions:**\n1\n**Work Location:**\nSacramento County\n**Telework:**\nHybrid\n**Job Type:**\nPermanent, Full Time\n### **Department Information**\n\n\nThe CEC was established by the Legislature in 1974 to address energy challenges facing the state. Today, the CEC is the state's primary energy policy and planning agency and is leading the state to a 100% clean energy future. Serving all Californians, the CEC embodies diversity, equity, and inclusion, and has taken an active and meaningful role in creating an environment that enables each employee to thrive. The CEC operates under the umbrella of the California Natural Resources Agency and shares offices with the agency in a LEED Platinum Certified Building in downtown Sacramento.\n\n\nThe California Energy Commission seeks an Air Pollution Specialist in the Regulations and Legislative Unit, under the Strategy, Equity, and Economic Benefits Branch, in the Fuels and Transportation Division. If you are interested in a challenging and exciting career in clean energy and are passionate about renewable, efficient, and reliable energy that addresses climate change, join our diverse team of global energy leaders! The California Energy Commission plays a lead role in creating the energy system of the future, not just in California, but globally.\n\n\nThis position is open to interested applicants who qualify. This can be a multi\\-step process. To be eligible to be hired:\n\n\n* Create an online CalCareers account. For a tutorial on the state application process, visit California State Hiring Process Instructional Video Series – YouTube or contact Careers@energy.ca.gov.\n\n\n* Complete and pass the Air Pollution Specialist exam to be eligible to be hired for available positions",
-      "salary": "$5918–$11k/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "Careers@energy.ca.gov, personnel.services@energy.ca.gov, EEO@energy.ca.gov",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
