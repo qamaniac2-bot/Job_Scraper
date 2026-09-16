@@ -1,6 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-16 00:57 UTC*
+*Last updated: 2026-09-16 01:53 UTC*
 
-**0 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 9 total in last 24h
 
-No new roles since the last run.
+### [Senior Air Quality Specialist (Regulatory Development)](https://www.indeed.com/viewjob?jk=ff46df47a2b5efd5) — Bay Area Air Quality Management District
+- 📍 **Location:** San Francisco, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-15
