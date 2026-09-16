@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-15 15:47 UTC",
-  "total": 11,
-  "new_count": 3,
+  "scraped_at": "2026-09-16 15:47 UTC",
+  "total": 10,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Defense Health Agency",
+      "title": "SUPERVISORY INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST",
+      "location": "Aberdeen Proving Ground, Maryland",
+      "url": "https://www.usajobs.gov/job/884350400",
+      "date_posted": "2026-09-16",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Air Force Materiel Command",
       "title": "Risk Assessor/Toxicologist Interdisciplinary (Environmental) - DIRECT HIRE AUTHORITY",
@@ -49,24 +58,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "George C. Marshall Space Flight Center",
-      "title": "Public Notice - Environmental Protection (Direct Hire)",
-      "location": "Huntsville, Alabama",
-      "url": "https://www.usajobs.gov/job/884044400",
-      "date_posted": "2026-09-11",
-      "salary": "Starting at $74,678 Per year (GS 11-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Prisons/Federal Prison System",
-      "title": "Environmental Protection Specialist",
-      "location": "Atlanta, Georgia",
-      "url": "https://www.usajobs.gov/job/883706600",
-      "date_posted": "2026-09-08",
-      "salary": "Starting at $78,972 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "National Park Service",
       "title": "Environmental Protection Specialist",
       "location": "Baker, Nevada",
@@ -105,30 +96,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Federal Highway Administration",
-      "title": "Environmental Protection Specialist - Direct Hire",
-      "location": "Albany, New York",
-      "url": "https://www.usajobs.gov/job/884564700",
-      "date_posted": "2026-09-15",
-      "salary": "Starting at $92,344 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "United States Army Installation Management Command",
-      "title": "Supervisory Environmental Protection Specialist",
-      "location": "Fort Hood, Texas",
-      "url": "https://www.usajobs.gov/job/884184000",
-      "date_posted": "2026-09-15",
-      "salary": "Starting at $125,776 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "United States Army Installation Management Command",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Riley, Kansas",
-      "url": "https://www.usajobs.gov/job/884636600",
-      "date_posted": "2026-09-14",
-      "salary": "Starting at $74,678 Per year (GS 11)",
+      "company": "Defense Health Agency",
+      "title": "SUPERVISORY INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST",
+      "location": "Aberdeen Proving Ground, Maryland",
+      "url": "https://www.usajobs.gov/job/884350400",
+      "date_posted": "2026-09-16",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     }
   ]
