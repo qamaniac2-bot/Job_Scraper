@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-15 23:40 UTC*
+*Last updated: 2026-09-16 00:48 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4467924242/) — CalRecycle
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $4,418.00/mo - $9,321.00/mo
+- 🕒 **Posted:** 2026-09-16
