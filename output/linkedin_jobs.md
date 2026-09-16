@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-16 17:41 UTC*
+*Last updated: 2026-09-16 18:44 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [PhD project – Diamond Open Access in Earth and Environmental Sciences](https://www.linkedin.com/jobs/view/4468263170/) — European Geosciences Union (EGU)
+- 📍 **Location:** Townsville, Queensland, Australia
+- 🕒 **Posted:** 2026-09-16
