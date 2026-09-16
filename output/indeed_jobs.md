@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-16 18:55 UTC*
+*Last updated: 2026-09-16 19:51 UTC*
 
-**0 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-No new roles since the last run.
+### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=9cb3656f3d1c29d1) — CALIFORNIA ENERGY COMMISSION
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $5918–$11k/mo
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
