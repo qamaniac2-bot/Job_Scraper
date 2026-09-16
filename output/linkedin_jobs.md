@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-16 15:42 UTC*
+*Last updated: 2026-09-16 16:43 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Managing Environmental Health Scientist](https://www.linkedin.com/jobs/view/4468232513/) — Ramboll
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $149,365 to $165,000
+- 🕒 **Posted:** 2026-09-16
