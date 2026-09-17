@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-17 21:40 UTC*
+*Last updated: 2026-09-17 22:37 UTC*
 
-**0 new role(s)** since last run · 6 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Director, Toxicology](https://www.linkedin.com/jobs/view/4467800660/) — Lindonlight
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $190,000 - $260,000
+- 🕒 **Posted:** 2026-09-17
