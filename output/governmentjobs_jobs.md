@@ -1,24 +1,20 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-17 16:32 UTC*
+*Last updated: 2026-09-18 16:30 UTC*
 
-**5 new role(s)** since last run · 8 total in recent GovernmentJobs postings
+**4 new role(s)** since last run · 9 total in recent GovernmentJobs postings
 
-### [ENVIRONMENTAL HEALTH SPECIALIST II / EMERGENCY APPOINTMENT HOMELESSNESS](https://www.governmentjobs.com/jobs/5405359-0/environmental-health-specialist-ii-emergency-appointment-homelessness) — County of Los Angeles
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** $74,012.88 - $94,477.20 Annually
+### [Senior Air Quality Specialist (Regulatory Development)](https://www.governmentjobs.com/jobs/5477091-0/senior-air-quality-specialist-regulatory-development) — Bay Area Air District
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $133,533.57 - $162,310.88 Annually
 
-### [HAZARDOUS MATERIALS SPECIALIST I](https://www.governmentjobs.com/jobs/5477314-0/hazardous-materials-specialist-i) — County of Orange
-- 📍 **Location:** Santa Ana, CA
-- 💰 **Salary:** $63,044.80 - $84,968.00 Annually
+### [Watershed Protection Specialist I](https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i) — City of Oceanside
+- 📍 **Location:** Oceanside, CA
+- 💰 **Salary:** $71,820.00 - $96,288.00 Annually
 
-### [HAZARDOUS MATERIALS SPECIALIST II](https://www.governmentjobs.com/jobs/5477352-0/hazardous-materials-specialist-ii) — County of Orange
-- 📍 **Location:** Santa Ana, CA
-- 💰 **Salary:** $76,190.40 - $102,731.20 Annually
+### [ENVIRONMENTAL SPECIALIST](https://www.governmentjobs.com/jobs/5448541-0/environmental-specialist) — City of El Cerrito
+- 📍 **Location:** El Cerrito, CA
+- 💰 **Salary:** $81,744.00 - $99,360.00 Annually
 
-### [Hazardous Materials Operations Specialist](https://www.governmentjobs.com/jobs/5473934-0/hazardous-materials-operations-specialist) — County of Mendocino
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** $70,345.60 - $85,488.00 Annually
-
-### [Senior Hazardous Materials Inspector](https://www.governmentjobs.com/jobs/5468792-0/senior-hazardous-materials-inspector) — City of Sunnyvale
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $77.19 - $98.51 Hourly
+### [Environmental Specialist III](https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii) — County of Sacramento
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $103,105.44 - $125,321.76 Annually
