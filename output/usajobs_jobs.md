@@ -1,6 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-09-17 15:47 UTC*
+*Last updated: 2026-09-18 15:46 UTC*
 
-**0 new role(s)** since last run · 10 total in current USAJOBS postings
+**1 new role(s)** since last run · 9 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST](https://www.usajobs.gov/job/884733100) — Defense Health Agency
+- 📍 **Location:** Aberdeen Proving Ground, Maryland
+- 💰 **Salary:** Starting at $85,447 Per year (GS 11-12)
+- 🕒 **Posted:** 2026-09-18

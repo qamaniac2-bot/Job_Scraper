@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-17 15:47 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-09-18 15:46 UTC",
+  "total": 9,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Defense Health Agency",
+      "title": "INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST",
+      "location": "Aberdeen Proving Ground, Maryland",
+      "url": "https://www.usajobs.gov/job/884733100",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $85,447 Per year (GS 11-12)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Defense Health Agency",
       "title": "SUPERVISORY INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST",
@@ -49,24 +58,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Palo Alto, California",
-      "url": "https://www.usajobs.gov/job/884164900",
-      "date_posted": "2026-09-11",
-      "salary": "Starting at $111,896 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "National Park Service",
-      "title": "Environmental Protection Specialist",
-      "location": "Baker, Nevada",
-      "url": "https://www.usajobs.gov/job/883228700",
-      "date_posted": "2026-09-03",
-      "salary": "Starting at $61,722 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "U.S. Marine Corps",
       "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
       "location": "Twentynine Palms, California",
@@ -94,5 +85,15 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Defense Health Agency",
+      "title": "INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST",
+      "location": "Aberdeen Proving Ground, Maryland",
+      "url": "https://www.usajobs.gov/job/884733100",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $85,447 Per year (GS 11-12)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
