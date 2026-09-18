@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 01:39 UTC*
+*Last updated: 2026-09-18 02:43 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Health Officer](https://www.linkedin.com/jobs/view/4466636763/) — City of Canning
+- 📍 **Location:** Cannington, Western Australia, Australia
+- 💰 **Salary:** $101,535.70/yr - A$108,060.07/yr
+- 🕒 **Posted:** 2026-09-18
