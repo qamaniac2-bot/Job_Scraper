@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 15:43 UTC*
+*Last updated: 2026-09-18 16:42 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Principal Geologist or Scientist - Environmental Assessment and Remediation](https://www.linkedin.com/jobs/view/4440795550/) — Geosyntec Consultants
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $135,070/year - $189,100/year
+### [Compliance, Threat & Risk Assessment Manager](https://www.linkedin.com/jobs/view/4440803189/) — Coinbase
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $162,010 USD - $190,600 USD
 - 🕒 **Posted:** 2026-09-18
