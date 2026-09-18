@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 03:42 UTC*
+*Last updated: 2026-09-18 15:43 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Health Assistant](https://www.linkedin.com/jobs/view/4466637833/) — City of Canning
-- 📍 **Location:** Cannington, Western Australia, Australia
+### [Principal Geologist or Scientist - Environmental Assessment and Remediation](https://www.linkedin.com/jobs/view/4440795550/) — Geosyntec Consultants
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $135,070/year - $189,100/year
 - 🕒 **Posted:** 2026-09-18
