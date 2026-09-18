@@ -1,14 +1,28 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 19:39 UTC*
+*Last updated: 2026-09-18 20:41 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**5 new role(s)** since last run · 7 total in last 1h
 
-### [Environmental Specialist, Water](https://www.linkedin.com/jobs/view/4469217671/) — MP Materials
-- 📍 **Location:** Mountain Pass, CA
-- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
+### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469246071/) — Ramboll
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000 to $234,000 per year
 - 🕒 **Posted:** 2026-09-18
 
-### [Environmental Specialist, Land](https://www.linkedin.com/jobs/view/4469225445/) — MP Materials
-- 📍 **Location:** Mountain Pass, CA
-- 💰 **Salary:** $95,000.00/yr - $115,000.00/yr
+### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469222936/) — Ramboll
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $190,000 to $234,000 per year
+- 🕒 **Posted:** 2026-09-18
+
+### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469233712/) — Ramboll
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $190,000 to $234,000 per year
+- 🕒 **Posted:** 2026-09-18
+
+### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469245095/) — Ramboll
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $190,000 to $234,000 per year
+- 🕒 **Posted:** 2026-09-18
+
+### [Graduate Environmental Compliance & Protection Officer](https://www.linkedin.com/jobs/view/4461096628/) — City of Canterbury Bankstown
+- 📍 **Location:** Bankstown, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-18
