@@ -1,28 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 20:41 UTC*
+*Last updated: 2026-09-18 21:41 UTC*
 
-**5 new role(s)** since last run · 7 total in last 1h
+**1 new role(s)** since last run · 8 total in last 1h
 
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469246071/) — Ramboll
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469222936/) — Ramboll
+### [Managing Environmental Health Scientist](https://www.linkedin.com/jobs/view/4468232513/) — Ramboll
 - 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469233712/) — Ramboll
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469245095/) — Ramboll
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
-- 🕒 **Posted:** 2026-09-18
-
-### [Graduate Environmental Compliance & Protection Officer](https://www.linkedin.com/jobs/view/4461096628/) — City of Canterbury Bankstown
-- 📍 **Location:** Bankstown, New South Wales, Australia
+- 💰 **Salary:** $149,365 to $165,000
 - 🕒 **Posted:** 2026-09-18
