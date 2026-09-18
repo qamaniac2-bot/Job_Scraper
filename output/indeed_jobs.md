@@ -1,6 +1,25 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 03:53 UTC*
+*Last updated: 2026-09-18 15:53 UTC*
 
-**0 new role(s)** since last run · 8 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-No new roles since the last run.
+### [Associate Air Pollution Chemist -Transfer/Reemployment/Retiree](https://www.indeed.com/viewjob?jk=42d3c6a939f53dc0) — County of San Diego
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $111k–$136k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-18
+
+### [Transfer - Principal Air Quality Chemist](https://www.indeed.com/viewjob?jk=d81f20b6f07f308d) — South Coast Air Quality Management District
+- 📍 **Location:** Diamond Bar, CA, US
+- 💰 **Salary:** $117k–$166k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-04-08
+
+### [Transfer - Assistant/Air Quality Specialist](https://www.indeed.com/viewjob?jk=8697e6ae9f634a3d) — South Coast Air Quality Management District
+- 📍 **Location:** Diamond Bar, CA, US
+- 💰 **Salary:** $82k–$137k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-03-12
