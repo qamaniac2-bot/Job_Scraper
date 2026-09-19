@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-18 15:46 UTC",
+  "scraped_at": "2026-09-19 15:43 UTC",
   "total": 9,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Defense Health Agency",
@@ -85,15 +85,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Defense Health Agency",
-      "title": "INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST",
-      "location": "Aberdeen Proving Ground, Maryland",
-      "url": "https://www.usajobs.gov/job/884733100",
-      "date_posted": "2026-09-18",
-      "salary": "Starting at $85,447 Per year (GS 11-12)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
