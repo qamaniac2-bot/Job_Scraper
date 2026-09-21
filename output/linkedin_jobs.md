@@ -1,8 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-21 22:40 UTC*
+*Last updated: 2026-09-21 23:41 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Water Quality Officer](https://www.linkedin.com/jobs/view/4468166906/) — Concentis
-- 📍 **Location:** Gladstone, Queensland, Australia
+### [ENVIRONMENTAL SCIENTIST](https://www.linkedin.com/jobs/view/4468180234/) — Caltrans
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $4,418.00/mo - $9,321.00/mo
 - 🕒 **Posted:** 2026-09-21
