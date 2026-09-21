@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-21 16:44 UTC*
+*Last updated: 2026-09-21 17:39 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [2026-27 Lecturer Pool Department of Earth and Environmental Sciences](https://www.linkedin.com/jobs/view/4382204300/) — California State University, Chico
-- 📍 **Location:** Chico, CA
-- 💰 **Salary:** $5,507 – $6,677 per month
+### [AIR POLLUTION SPECIALIST](https://www.linkedin.com/jobs/view/4467631440/) — California Air Resources Board
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
 - 🕒 **Posted:** 2026-09-21
