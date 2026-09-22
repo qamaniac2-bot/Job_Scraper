@@ -1,12 +1,19 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-22 19:39 UTC*
+*Last updated: 2026-09-22 20:41 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Environmental Scientists, Engineers, Geologists, and Business Support Professionals - All Levels](https://www.linkedin.com/jobs/view/4469047178/) — Elkhorn Environmental Solutions, Inc
-- 📍 **Location:** Grass Valley, CA
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4470607661/) — SCS Engineers
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** USD $71,000.00 - USD $81,000.00 /Yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4469038988/) — RedBrick Staffing
-- 📍 **Location:** San Diego, CA
+### [National Environmental Protection Act (NEPA) Specialist](https://www.linkedin.com/jobs/view/4469056301/) — Integral Federal, Inc.
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $68,000 - $75,000
+- 🕒 **Posted:** 2026-09-22
+
+### [Biologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4469045522/) — Ecological Land Services, Inc.
+- 📍 **Location:** Washougal, WA
+- 💰 **Salary:** $24 - $35 hourly
 - 🕒 **Posted:** 2026-09-22
