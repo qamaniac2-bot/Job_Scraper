@@ -1,19 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-22 20:41 UTC*
+*Last updated: 2026-09-22 21:40 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4470607661/) — SCS Engineers
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** USD $71,000.00 - USD $81,000.00 /Yr
+### [Alameda Creek Watershed Center Programs and Operations Manager (0922) – Natural Resources and Lands Management Division (Sunol, CA) – SFPUC (167137)](https://www.linkedin.com/jobs/view/4469059517/) — San Francisco Public Utilities Commission
+- 📍 **Location:** Sunol, CA
 - 🕒 **Posted:** 2026-09-22
 
-### [National Environmental Protection Act (NEPA) Specialist](https://www.linkedin.com/jobs/view/4469056301/) — Integral Federal, Inc.
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $68,000 - $75,000
-- 🕒 **Posted:** 2026-09-22
-
-### [Biologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4469045522/) — Ecological Land Services, Inc.
-- 📍 **Location:** Washougal, WA
-- 💰 **Salary:** $24 - $35 hourly
+### [Alameda Creek Watershed Center Programs and Operations Manager (0922) – Natural Resources and Lands Management Division (Sunol, CA) – SFPUC (167137)](https://www.linkedin.com/jobs/view/4470621511/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-22
