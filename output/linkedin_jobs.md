@@ -1,19 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-22 01:40 UTC*
+*Last updated: 2026-09-22 02:42 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4470215801/) — Alignerr
-- 📍 **Location:** Australia
-- 💰 **Salary:** $75.00/hr - $90.00/hr
+### [Environmental Compliance Specialist I/II](https://www.linkedin.com/jobs/view/4470232436/) — City of Roseville
+- 📍 **Location:** Roseville, CA
+- 💰 **Salary:** $31.77 to $49.17 hourly
 - 🕒 **Posted:** 2026-09-22
 
-### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4470224313/) — Alignerr
-- 📍 **Location:** Sydney, New South Wales, Australia
-- 💰 **Salary:** $75.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-09-22
-
-### [Environmental Science Expert (Masters/PhDs)](https://www.linkedin.com/jobs/view/4470232033/) — Alignerr
-- 📍 **Location:** Melbourne, Victoria, Australia
-- 💰 **Salary:** $75.00/hr - $90.00/hr
+### [Water Agency Senior Environmental Specialist - Tribal Liaison](https://www.linkedin.com/jobs/view/4470229287/) — County of Sonoma
+- 📍 **Location:** Santa Rosa, CA
 - 🕒 **Posted:** 2026-09-22
