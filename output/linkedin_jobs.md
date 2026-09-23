@@ -1,19 +1,24 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-23 01:41 UTC*
+*Last updated: 2026-09-23 02:42 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469246071/) — Ramboll
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
+### [Portfolio Delivery Leader - Environmental Remediation Sector](https://www.linkedin.com/jobs/view/4469090870/) — AECOM
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $89000 to $110000
 - 🕒 **Posted:** 2026-09-23
 
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469222936/) — Ramboll
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
+### [Portfolio Delivery Leader - Environmental Remediation Sector](https://www.linkedin.com/jobs/view/4469091431/) — AECOM
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $89000 to $110000
 - 🕒 **Posted:** 2026-09-23
 
-### [Principal, Human Health Risk Assessment, Community Health Impact Assessment, Emerging Contaminants](https://www.linkedin.com/jobs/view/4469245095/) — Ramboll
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $190,000 to $234,000 per year
+### [Environmental Health Officer](https://www.linkedin.com/jobs/view/4469095418/) — Kingborough Council
+- 📍 **Location:** Kingston, Tasmania, Australia
+- 💰 **Salary:** $94,895 - $104,849
+- 🕒 **Posted:** 2026-09-23
+
+### [Superannuation Operations Specialist - Incident & Remediation](https://www.linkedin.com/jobs/view/4470677028/) — Future Group
+- 📍 **Location:** Australia
+- 💰 **Salary:** $85,000.00/yr - A$95,000.00/yr
 - 🕒 **Posted:** 2026-09-23
