@@ -1,19 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-23 22:40 UTC*
+*Last updated: 2026-09-23 23:38 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Senior Technical Project Manager – Chlorinated Solvent Remediation](https://www.linkedin.com/jobs/view/4471137275/) — Apex Companies
-- 📍 **Location:** Signal Hill, CA
-- 💰 **Salary:** $500K to $5
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Technical Project Manager – Chlorinated Solvent Remediation](https://www.linkedin.com/jobs/view/4471124861/) — Apex Companies
-- 📍 **Location:** Pleasant Hill, CA
-- 💰 **Salary:** $500K to $5
-- 🕒 **Posted:** 2026-09-23
-
-### [Senior Technical Project Manager – Chlorinated Solvent Remediation](https://www.linkedin.com/jobs/view/4471128839/) — Apex Companies
-- 📍 **Location:** Thousand Oaks, CA
-- 💰 **Salary:** $500K to $5
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4469614722/) — CDMS
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $80,000-$120,000
 - 🕒 **Posted:** 2026-09-23
