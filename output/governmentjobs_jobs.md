@@ -1,12 +1,20 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-23 16:33 UTC*
+*Last updated: 2026-09-24 16:33 UTC*
 
-**2 new role(s)** since last run · 5 total in recent GovernmentJobs postings
+**4 new role(s)** since last run · 5 total in recent GovernmentJobs postings
 
-### [Senior Environmental Health Specialist](https://www.governmentjobs.com/jobs/5452512-0/senior-environmental-health-specialist) — County of Santa Clara
-- 📍 **Location:** Throughout the County of Santa Clara, CA
-- 💰 **Salary:** $125,440.64 - $151,925.28 Annually
+### [Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)](https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr) — County of San Mateo
+- 📍 **Location:** County of San Mateo, CA
+- 💰 **Salary:** $10,684.27 - $13,351.87 Monthly
 
-### [Senior Air Quality Specialist (Regulatory Development)](https://www.governmentjobs.com/jobs/5477091-0/senior-air-quality-specialist-regulatory-development) — Bay Area Air District
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $133,533.57 - $162,310.88 Annually
+### [HAZARDOUS MATERIALS SPECIALIST I](https://www.governmentjobs.com/jobs/5477314-0/hazardous-materials-specialist-i) — County of Orange
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $64,937.60 - $87,526.40 Annually
+
+### [HAZARDOUS MATERIALS SPECIALIST II](https://www.governmentjobs.com/jobs/5477352-0/hazardous-materials-specialist-ii) — County of Orange
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $78,478.40 - $105,809.60 Annually
+
+### [Senior Hazardous Materials Inspector](https://www.governmentjobs.com/jobs/5468792-0/senior-hazardous-materials-inspector) — City of Sunnyvale
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $77.19 - $98.51 Hourly
