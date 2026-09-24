@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-24 03:42 UTC*
+*Last updated: 2026-09-24 15:43 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Scientist/Project Manager](https://www.linkedin.com/jobs/view/4452750962/) — EnSafe
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $71,000 - $110,000 USD
+- 🕒 **Posted:** 2026-09-24
