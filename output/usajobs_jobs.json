@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-09-24 15:47 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-09-25 15:46 UTC",
+  "total": 6,
+  "new_count": 2,
   "jobs": [
-    {
-      "company": "Defense Health Agency",
-      "title": "INTERDISCIPLINARY-BIOLOGIST/TOXICOLOGIST",
-      "location": "Aberdeen Proving Ground, Maryland",
-      "url": "https://www.usajobs.gov/job/884733100",
-      "date_posted": "2026-09-18",
-      "salary": "Starting at $85,447 Per year (GS 11-12)",
-      "ats": "USAJOBS"
-    },
     {
       "company": "Air Force Materiel Command",
       "title": "Risk Assessor/Toxicologist Interdisciplinary (Environmental) - DIRECT HIRE AUTHORITY",
@@ -19,6 +10,24 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $90,823 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Armstrong Flight Research Center",
+      "title": "Environmental Protection Specialist (Direct Hire)",
+      "location": "Edwards AFB, California",
+      "url": "https://www.usajobs.gov/job/886144200",
+      "date_posted": "2026-09-25",
+      "salary": "Starting at $104,349 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Environmental Protection Specialist",
+      "location": "Fort Devens, Massachusetts",
+      "url": "https://www.usajobs.gov/job/886088400",
+      "date_posted": "2026-09-25",
+      "salary": "Starting at $84,579 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
@@ -49,5 +58,24 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Armstrong Flight Research Center",
+      "title": "Environmental Protection Specialist (Direct Hire)",
+      "location": "Edwards AFB, California",
+      "url": "https://www.usajobs.gov/job/886144200",
+      "date_posted": "2026-09-25",
+      "salary": "Starting at $104,349 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Environmental Protection Specialist",
+      "location": "Fort Devens, Massachusetts",
+      "url": "https://www.usajobs.gov/job/886088400",
+      "date_posted": "2026-09-25",
+      "salary": "Starting at $84,579 Per year (GS 11)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
