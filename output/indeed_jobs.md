@@ -1,6 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-25 18:55 UTC*
+*Last updated: 2026-09-25 19:53 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Security Officer Part Time Risk Assessment](https://www.indeed.com/viewjob?jk=55f012cdad0ad9ae) — Allied Universal
+- 📍 **Location:** Pico Rivera, CA, US
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-25
