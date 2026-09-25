@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-25 15:44 UTC*
+*Last updated: 2026-09-25 16:47 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Environmental Specialist](https://www.linkedin.com/jobs/view/4468697820/) — Triumvirate Environmental
-- 📍 **Location:** Tracy, CA
-- 💰 **Salary:** $28 USD - $28 USD
-- 🕒 **Posted:** 2026-09-25
-
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4470336015/) — Akkodis
-- 📍 **Location:** Pomona, CA
-- 💰 **Salary:** $20.00/hr - $25.00/hr
+### [SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST) JC-533221](https://www.linkedin.com/jobs/view/4469727827/) — California Department of Public Health
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $7,820.00/mo - $10,732.00/mo
 - 🕒 **Posted:** 2026-09-25
