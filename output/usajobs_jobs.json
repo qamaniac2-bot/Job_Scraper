@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-25 15:46 UTC",
+  "scraped_at": "2026-09-26 15:46 UTC",
   "total": 6,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -58,24 +58,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Armstrong Flight Research Center",
-      "title": "Environmental Protection Specialist (Direct Hire)",
-      "location": "Edwards AFB, California",
-      "url": "https://www.usajobs.gov/job/886144200",
-      "date_posted": "2026-09-25",
-      "salary": "Starting at $104,349 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "United States Army Installation Management Command",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Devens, Massachusetts",
-      "url": "https://www.usajobs.gov/job/886088400",
-      "date_posted": "2026-09-25",
-      "salary": "Starting at $84,579 Per year (GS 11)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
