@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-25 23:39 UTC*
+*Last updated: 2026-09-26 00:47 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [As-Needed Environmental Compliance Monitor and Designated Biologist for BUOW - CA](https://www.linkedin.com/jobs/view/4472210699/) — Dudek
+- 📍 **Location:** Fresno, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Security Officer Patrol Hazard Identification](https://www.linkedin.com/jobs/view/4472218288/) — Allied Universal
+- 📍 **Location:** Jurupa Valley, CA
+- 🕒 **Posted:** 2026-09-25
