@@ -1,8 +1,6 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-26 16:31 UTC*
+*Last updated: 2026-09-27 16:31 UTC*
 
-**1 new role(s)** since last run · 5 total in recent GovernmentJobs postings
+**0 new role(s)** since last run · 5 total in recent GovernmentJobs postings
 
-### [Air Quality Specialist I/II](https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii) — Placer County
-- 📍 **Location:** Auburn, CA
-- 💰 **Salary:** $6,782.53 - $8,469.07 Monthly
+No new state/local-gov roles since the last run.
