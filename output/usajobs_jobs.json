@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27 15:45 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-09-28 15:50 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -10,6 +10,15 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $90,823 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Defense",
+      "title": "Environmental Protection Specialist",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/886451200",
+      "date_posted": "2026-09-28",
+      "salary": "Starting at $143,913 Per year (NH 4)",
       "ats": "USAJOBS"
     },
     {
@@ -58,5 +67,15 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Office of the Secretary of Defense",
+      "title": "Environmental Protection Specialist",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/886451200",
+      "date_posted": "2026-09-28",
+      "salary": "Starting at $143,913 Per year (NH 4)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
