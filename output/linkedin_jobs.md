@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-28 22:17 UTC*
+*Last updated: 2026-09-29 02:14 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Product Stewardship Specialist I](https://www.linkedin.com/jobs/view/4452737763/) — Penumbra, Inc.
-- 📍 **Location:** Alameda, CA
-- 💰 **Salary:** $72,000 - $94,000
-- 🕒 **Posted:** 2026-09-28
+### [Environmental Compliance Specialist](https://www.linkedin.com/jobs/view/4471570304/) — Alpha Petroleum Transport, Inc. II dba Alpha Environmental Engineering & Construction
+- 📍 **Location:** Corona, CA
+- 🕒 **Posted:** 2026-09-29
