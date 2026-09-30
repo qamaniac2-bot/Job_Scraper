@@ -1,16 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-29 20:53 UTC*
+*Last updated: 2026-09-30 20:51 UTC*
 
-**3 new role(s)** since last run · 6 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 3 total in recent GovernmentJobs postings
 
-### [Environmental Specialist (Quality Assurance/Sampling)](https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling) — Orange County Sanitation District
-- 📍 **Location:** CA 92708, CA
-- 💰 **Salary:** $110,718.40 - $134,617.60 Annually
-
-### [Watershed Protection Specialist I](https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i) — City of Oceanside
-- 📍 **Location:** Oceanside, CA
-- 💰 **Salary:** $71,820.00 - $96,288.00 Annually
-
-### [Environmental Compliance Specialist I/II](https://www.governmentjobs.com/jobs/5488659-0/environmental-compliance-specialist-i-ii) — City of Roseville (CA)
-- 📍 **Location:** Roseville
-- 💰 **Salary:** $31.77 - $49.17 Hourly
+### [Senior Operator - Regional Water Quality Control Plant (Multiple Positions)](https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions) — City of Palo Alto
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $126,256.00 - $154,440.00 Annually
