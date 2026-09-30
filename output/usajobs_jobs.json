@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29 20:12 UTC",
-  "total": 8,
+  "scraped_at": "2026-09-30 20:17 UTC",
+  "total": 6,
   "new_count": 1,
   "jobs": [
     {
@@ -13,6 +13,15 @@
       "ats": "USAJOBS"
     },
     {
+      "company": "Veterans Health Administration",
+      "title": "Environmental Protection Specialist",
+      "location": "Fort Meade, South Dakota",
+      "url": "https://www.usajobs.gov/job/886894600",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $89,508 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
       "company": "Office of the Secretary of Defense",
       "title": "Environmental Protection Specialist",
       "location": "Washington, District of Columbia",
@@ -22,39 +31,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Armstrong Flight Research Center",
-      "title": "Environmental Protection Specialist (Direct Hire)",
-      "location": "Edwards AFB, California",
-      "url": "https://www.usajobs.gov/job/886144200",
-      "date_posted": "2026-09-25",
-      "salary": "Starting at $104,349 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "United States Army Installation Management Command",
       "title": "Environmental Protection Specialist",
       "location": "Fort Devens, Massachusetts",
       "url": "https://www.usajobs.gov/job/886088400",
       "date_posted": "2026-09-25",
       "salary": "Starting at $84,579 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Collins, Colorado",
-      "url": "https://www.usajobs.gov/job/885826600",
-      "date_posted": "2026-09-23",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Environmental Protection Specialist - Direct Hire",
-      "location": "Albany, New York",
-      "url": "https://www.usajobs.gov/job/884564700",
-      "date_posted": "2026-09-15",
-      "salary": "Starting at $92,344 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
@@ -78,12 +60,12 @@
   ],
   "new_jobs": [
     {
-      "company": "National Oceanic and Atmospheric Administration",
-      "title": "Fish Biologist - Fieldwork and Environmental Compliance Coordinator",
-      "location": "Miami, Florida",
-      "url": "https://www.usajobs.gov/job/886640600",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $74,678 Per year (ZP 3-4)",
+      "company": "Veterans Health Administration",
+      "title": "Environmental Protection Specialist",
+      "location": "Fort Meade, South Dakota",
+      "url": "https://www.usajobs.gov/job/886894600",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     }
   ]
