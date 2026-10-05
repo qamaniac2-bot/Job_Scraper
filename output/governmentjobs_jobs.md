@@ -1,8 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-10-04 19:42 UTC*
+*Last updated: 2026-10-05 22:44 UTC*
 
-**1 new role(s)** since last run · 5 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 6 total in recent GovernmentJobs postings
 
-### [Senior Operator - Regional Water Quality Control Plant (Multiple Positions)](https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions) — City of Palo Alto
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $126,256.00 - $154,440.00 Annually
+### [Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)](https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr) — County of San Mateo
+- 📍 **Location:** County of San Mateo, CA
+- 💰 **Salary:** $10,684.27 - $13,351.87 Monthly
